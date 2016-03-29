@@ -1,5 +1,5 @@
 # BNI-scraper
-Node.js web scraper with x-ray.
+Node.js web scraper with [x-ray](https://github.com/lapwinglabs/x-ray).
 
 ### Usage
 Run `node app.js`.
