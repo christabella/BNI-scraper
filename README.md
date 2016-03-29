@@ -36,4 +36,3 @@ URL to the [BNI Zona Promotions](http://m.bnizona.com/index.php/promo) web page.
   ]
 }
 ```
-    
