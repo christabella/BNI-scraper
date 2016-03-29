@@ -1,0 +1,27 @@
+{
+  "name": "bni-scraper",
+  "version": "1.0.0",
+  "description": "Node.js scraper with x-ray.",
+  "main": "app.js",
+  "dependencies": {
+    "x-ray": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christabella/BNI-scraper.git"
+  },
+  "keywords": [
+    "x-ray",
+    "node"
+  ],
+  "author": "Christabella Irwanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christabella/BNI-scraper/issues"
+  },
+  "homepage": "https://github.com/christabella/BNI-scraper#readme"
+}
