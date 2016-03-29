@@ -1,0 +1,469 @@
+{
+  Fashion: [
+    {
+      title: "GRATIS Gelang Swarovski dengan Kartu Debit BNI ",
+      merchant: "Shafira",
+      merchant_logo: "http://m.bnizona.com/files/6efcf507ce5bd867ad106939fc2110ae.jpg",
+      valid_until: "valid until 03 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1169"
+    },
+    {
+      title: "BNI - ZALORA THURSDAY SPECIAL",
+      merchant: "www.zalora.co.id",
+      merchant_logo: "http://m.bnizona.com/files/83481f460ae09ecbee0096962d38d6ce.png",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1134"
+    },
+    {
+      title: "Cicilan 0% untuk 3 & 6 bulan di Euroskinlab",
+      merchant: "EuroSkinLab",
+      merchant_logo: "http://m.bnizona.com/files/2b6cf24b89f4d0cb20fa6c64470e3f22.jpg",
+      valid_until: "valid until 31 October 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1124"
+    },
+    {
+      title: "Cicilan 0% di Bimbi.com dengan Kartu Kredit BNI",
+      merchant: "Bimbi.com",
+      merchant_logo: "http://m.bnizona.com/files/4d59952517d21daf4a16fdbeec17379b.jpg",
+      valid_until: "valid until 30 June 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1120"
+    },
+    {
+      title: "Diskon 10% di EVB dengan Kartu Kredit BNI",
+      merchant: "EVB",
+      merchant_logo: "http://m.bnizona.com/files/5325a2ce1fd2a9d3bbee1a5a76ead381.jpg",
+      valid_until: "valid until 30 September 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1115"
+    },
+    {
+      title: "Hemat hingga 100% dengan BNI Reward Points di Superdry",
+      merchant: "Superdry",
+      merchant_logo: "http://m.bnizona.com/files/9c161fd3e5e6afba21dd3c41e29e4e3f.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1114"
+    },
+    {
+      title: "Diskon 15% di Point Break dengan Kartu Kredit BNI",
+      merchant: "Point Break",
+      merchant_logo: "http://m.bnizona.com/files/ee6795b4b96f323e930c9d88139f8c03.jpg",
+      valid_until: "valid until 30 June 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1112"
+    },
+    {
+      title: "Cantik dengan THEFACESHOP diskon hingga 15%",
+      merchant: "THEFACESHOP",
+      merchant_logo: "http://m.bnizona.com/files/9b5895a577917f999c70aecc6a15088c.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1109"
+    },
+    {
+      title: "Shopping brand Quiksilver dan DC Shoes diskon 10% ",
+      merchant: "Quiksilver",
+      merchant_logo: "http://m.bnizona.com/files/542da19361af63b1eb52fca7f17512cc.jpg",
+      valid_until: "valid until 18 March 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1108"
+    },
+    {
+      title: "Diskon 10% untuk brand Hurley dengan Kartu Kredit BNI",
+      merchant: "Hurley",
+      merchant_logo: "http://m.bnizona.com/files/07f158d119c0dfd5b77906c87fd7fedf.jpg",
+      valid_until: "valid until 18 March 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1106"
+    }
+  ],
+  Groceries: [
+    {
+      title: "Gratis Voucher Belanja Rp 25.000 di Baji Pamai Supermarket dengan Kartu Kredit BNI",
+      merchant: "Baji Pamai Supermarket",
+      merchant_logo: "http://m.bnizona.com/files/cd526c4b708fea7e52efa7b96c1db395.jpg",
+      valid_until: "valid until 18 July 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1200"
+    },
+    {
+      title: "Gratis Minyak Goreng 2L dan Gulaku di Toko Satu Sama Makassar",
+      merchant: "Toko Satu Sama ",
+      merchant_logo: "http://m.bnizona.com/files/5f783e37056bda43846f9670e72c290e.jpg",
+      valid_until: "valid until 10 July 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1194"
+    },
+    {
+      title: "Cashback Rp 70 ribu di Superindo dengan Kartu Kredit BNI",
+      merchant: "Super Indo",
+      merchant_logo: "http://m.bnizona.com/files/a96a35abc24d8a7fae5d3d5f374c66d7.JPG",
+      valid_until: "valid until 24 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1186"
+    },
+    {
+      title: "Menangkan Emas, Sepeda Motor dan hadiah lainnya di SJS Plaza Padang ",
+      merchant: "SJS Plaza Padang",
+      merchant_logo: "http://m.bnizona.com/files/ce2b77c5062f5b0e8998ef84f2a1c913.png",
+      valid_until: "valid until 07 August 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1185"
+    },
+    {
+      title: "Pasar Buah Tebar Hadiah dengan Kartu Kredit & Debit BNI",
+      merchant: "Pasar Buah Group",
+      merchant_logo: "http://m.bnizona.com/files/a8aa7ae54678fffa54836219e6294a33.jpg",
+      valid_until: "valid until 14 September 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1184"
+    },
+    {
+      title: "Penawaran spesial belanja di LOTTE Mart dengan Kartu Debit BNI",
+      merchant: "LOTTEMart Hypermarket",
+      merchant_logo: "http://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1177"
+    },
+    {
+      title: "Gratis 5 Produk di Tip Top Swalayan dengan Kartu Kredit BNI",
+      merchant: "Tip Top Swalayan",
+      merchant_logo: "http://m.bnizona.com/files/9ce11ea608637f8f53b4d19220ccb827.jpg",
+      valid_until: "valid until 03 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1163"
+    },
+    {
+      title: "Tambahan diskon 20% fresh product di LOTTEMart Hypermaket dan Supermaket",
+      merchant: "LOTTEMart Hypermarket",
+      merchant_logo: "http://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+      valid_until: "valid until 30 June 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1121"
+    }
+  ],
+  Food and Beverage: [
+    {
+      title: "Diskon 25% di Bamboe Hijau Seafood Medan",
+      merchant: "Bamboe Hijau Seafood",
+      merchant_logo: "http://m.bnizona.com/files/dcf528a45ee16bdd15ab9f72684fad1e.jpg",
+      valid_until: "valid until 04 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1191"
+    },
+    {
+      title: "Dining Experience di The Trader Medan dengan Kartu BNI",
+      merchant: "The Traders Restaurant",
+      merchant_logo: "http://m.bnizona.com/files/4ce2e0ac3362b9837163e217e03e0d8f.jpg",
+      valid_until: "valid until 30 June 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1189"
+    },
+    {
+      title: "Hemat hingga 50% dengan BNI Reward Points dan 20% dengan Kartu Kredit BNI",
+      merchant: "Pizza Marzano",
+      merchant_logo: "http://m.bnizona.com/files/e143153b0d0c7dbafa2863451b7f4a31.jpg",
+      valid_until: "valid until 31 August 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1180"
+    },
+    {
+      title: "BNI Dining Experience",
+      merchant: "BNI Experience",
+      merchant_logo: "http://m.bnizona.com/files/cfabf057560e5cbfd6fc62e988864c55.jpg",
+      valid_until: "valid until 31 January 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1153"
+    },
+    {
+      title: "Diskon hingga 33% santap di Grand Suki dengan Kartu Kredit BNI",
+      merchant: "Grand Suki",
+      merchant_logo: "http://m.bnizona.com/files/9ca3491e3432942cf0fda60e13b1535f.png",
+      valid_until: "valid until 30 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1151"
+    },
+    {
+      title: "Diskon 20% di Imperial Chef dengan Kartu Kredit BNI",
+      merchant: "Imperial Chef",
+      merchant_logo: "http://m.bnizona.com/files/eec79aa555e7cd5c4ffaabb0451700f7.png",
+      valid_until: "valid until 30 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1149"
+    },
+    {
+      title: "Diskon hingga 33% santap di Han Gang Korean Restaurant dengan Kartu Kredit BNI",
+      merchant: "Han Gang",
+      merchant_logo: "http://m.bnizona.com/files/1df466566de3fdebb53e86addecc1427.jpg",
+      valid_until: "valid until 30 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1148"
+    },
+    {
+      title: "Diskon 15% dengan Kartu Kredit BNI di Shokupan",
+      merchant: "Shokupan Bakery & Cakes",
+      merchant_logo: "http://m.bnizona.com/files/8db79f0d9134dd99ee9bdcc284cada6d.png",
+      valid_until: "valid until 15 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1147"
+    },
+    {
+      title: "Free Payung di Rumah Buah dengan Kartu Kredit BNI",
+      merchant: "Rumah Buah",
+      merchant_logo: "http://m.bnizona.com/files/1803ad0fb4b2f201b0dad05500ae69c6.png",
+      valid_until: "valid until 14 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1146"
+    },
+    {
+      title: "Diskon 10% untuk Paket Big Box dengan Kartu Kredit BNI",
+      merchant: "Pizza Hut Delivery",
+      merchant_logo: "http://m.bnizona.com/files/085f0e6c028f61994d1f3fb4f4878799.jpg",
+      valid_until: "valid until 24 January 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1145"
+    }
+  ],
+  Electronic: [
+    {
+      title: "Installment 0% di Showroom Elektronik 88",
+      merchant: "Showroom Elektronik 88",
+      merchant_logo: "http://m.bnizona.com/files/3070dc904f9324d3c0f99accaa4490dc.jpg",
+      valid_until: "valid until 23 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/19/835"
+    },
+    {
+      title: "Installment 0% di Global Computer",
+      merchant: "Global Computer",
+      merchant_logo: "http://m.bnizona.com/files/88735f145c714cfee8f4e28aa2857456.jpg",
+      valid_until: "valid until 05 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/19/827"
+    },
+    {
+      title: "Installment 0% 6 & 12 bulan di Global Electronic",
+      merchant: "Global Elektronik",
+      merchant_logo: "http://m.bnizona.com/files/3021a771c439709a14a0b97ca6065364.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/19/791"
+    }
+  ],
+  Gadget: [
+    {
+      title: "CASHBACK hingga Rp. 400.000,- + Cicilan 0% sd 18 bulan di store ERAFONE",
+      merchant: "Erafone Store",
+      merchant_logo: "http://m.bnizona.com/themes/default/images/noimage.jpg",
+      valid_until: "valid until 03 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/20/1192"
+    },
+    {
+      title: "Cashback up to Rp.350,000 di WW Ponsel Pekanbaru",
+      merchant: "WW Ponsel",
+      merchant_logo: "http://m.bnizona.com/files/7b61224c363d81e55f771309ce8c913d.png",
+      valid_until: "valid until 06 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/20/1183"
+    },
+    {
+      title: "Installment 0% di Link Cell Division",
+      merchant: "Link Cell Division",
+      merchant_logo: "http://m.bnizona.com/files/b93bdc03c09633a06b0de1ed33e489bf.jpg",
+      valid_until: "valid until 19 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/20/828"
+    }
+  ],
+  Home: [
+    {
+      title: "March Superb Deals di Kawan Lama Retail Cashback up to Rp 300 ribu ",
+      merchant: "Kawan Lama Group",
+      merchant_logo: "http://m.bnizona.com/files/202a92a56cd1051520f8c858f83eb8fe.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/21/1193"
+    },
+    {
+      title: "Diskon hingga 15% di KARE Design",
+      merchant: "KARE Design",
+      merchant_logo: "http://m.bnizona.com/files/f5dbf2f029c3764efb2ab8fa3ef0fb30.jpg",
+      valid_until: "valid until 30 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/21/1164"
+    }
+  ],
+  Travel: [
+    {
+      title: "Diskon hingga Rp30 ribu pemesanan Kereta Api di tiket.com",
+      merchant: "Tiket.com",
+      merchant_logo: "http://m.bnizona.com/files/2d3edd6cf645fe42975f7eeda602c69f.png",
+      valid_until: "valid until 24 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/1198"
+    },
+    {
+      title: "GARUDA INDONESIA TRAVEL FAIR",
+      merchant: "Garuda Indonesia",
+      merchant_logo: "http://m.bnizona.com/files/8a69f74e29be0dd428a0c844a4355a0f.jpg",
+      valid_until: "valid until 01 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/1197"
+    },
+    {
+      title: "Fly with Emirates Airlines disc. up to 15%",
+      merchant: "Emirates Airlines",
+      merchant_logo: "http://m.bnizona.com/files/75742142f68a22a5a691233f52243f43.jpg",
+      valid_until: "valid until 30 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/954"
+    },
+    {
+      title: "Sriwijaya Air Cicilan 0% 3, 6 & 12 Bulan pada Online dan Ticketing Office",
+      merchant: "Sriwijaya Air",
+      merchant_logo: "http://m.bnizona.com/files/bced1f73777c7b1de7b3ef9021b8af23.jpg",
+      valid_until: "valid until 15 June 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/907"
+    }
+  ],
+  Hotel: [
+    {
+      title: "Khusus Selasa Diskon Rp 100 ribu untuk order Hotel di Ezytravel.co.id",
+      merchant: "EzyTravel",
+      merchant_logo: "http://m.bnizona.com/files/99cdd850ef0e96a3c0ffc435ca216075.jpg",
+      valid_until: "valid until 31 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/1117"
+    },
+    {
+      title: "Diskon 10% untuk Kamar + 15% Resto & Spa di Solo Paragon Hotel",
+      merchant: "Solo Paragon Hotel",
+      merchant_logo: "http://m.bnizona.com/files/bca091de48a6d799695f19022136e783.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/881"
+    },
+    {
+      title: "Diskon 10% untuk Kamar + 15% Resto & Spa di Eden Hotel Bali",
+      merchant: "Eden Hotel Bali",
+      merchant_logo: "http://m.bnizona.com/files/02d04f4ffd13ba2d560df33ad3af8db0.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/879"
+    },
+    {
+      title: "Diskon 30% di Sagan Hotel - Yogyakarta",
+      merchant: "Sagan Hotel",
+      merchant_logo: "http://m.bnizona.com/files/f70599d2c5d5308f755945be06c60643.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/831"
+    },
+    {
+      title: "Diskon 45% di Indoluxe Hotel - Yogyakarta",
+      merchant: "Indoluxe Hotel",
+      merchant_logo: "http://m.bnizona.com/files/586337d50217b9e0518471b7a821604c.jpg",
+      valid_until: "valid until 15 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/811"
+    },
+    {
+      title: "Diskon up to 55% di Crystal Lotus Hotel - Yogyakarta",
+      merchant: "Crystal Lotus Hotel",
+      merchant_logo: "http://m.bnizona.com/files/e936da0b749b2623720325d9aeb101f3.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/810"
+    },
+    {
+      title: "Diskon hingga 35% di Nagoya Plasa Hotel",
+      merchant: "Nagoya Plasa Hotel",
+      merchant_logo: "http://m.bnizona.com/files/adf0f6bbece9982977e8a4466678398a.jpg",
+      valid_until: "valid until 16 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/787"
+    }
+  ],
+  Health Service: [
+    {
+      title: "Gratis Voucher at Watsons Indonesia",
+      merchant: "watsons",
+      merchant_logo: "http://m.bnizona.com/files/f3f2997fcd10c7361723aa1adc310e7c.jpg",
+      valid_until: "valid until 08 July 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/25/1005"
+    },
+    {
+      title: "RS Surya Husadha Badung & Denpasar Diskon 20% Room dan Diskon 10% Medical Check-up",
+      merchant: "RS Surya Husadha Denpasar ",
+      merchant_logo: "http://m.bnizona.com/files/354fcd3ef843122e928734a44f5095d5.jpg",
+      valid_until: "valid until 01 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/25/941"
+    }
+  ],
+  Miscellaneous: [
+    {
+      title: "Nikmati Belanja Seru dan Hadiah Lebih Banyak",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 05 August 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1199"
+    },
+    {
+      title: "Penawaran Spesial dengan Kartu Debit BNI",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 18 January 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1195"
+    },
+    {
+      title: "Menangkan Honda BR-V & hadiah menarik lainnya di Rejeki Listrik BNI e-Banking",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 31 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1182"
+    },
+    {
+      title: "Mudah apply Kartu Kredit BNI",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 31 December 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1181"
+    },
+    {
+      title: "Cashback Rp 70.000,- di aksenbelanja.com",
+      merchant: "aksenbelanja.com",
+      merchant_logo: "http://m.bnizona.com/files/148e52159e6b42ed406ab9fd7dc0706c.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1179"
+    },
+    {
+      title: "Cashback hingga Rp 200 ribu di BLANJA.com dengan Kartu Kredit BNI",
+      merchant: "blanja.com",
+      merchant_logo: "http://m.bnizona.com/files/a9dbee45bb9f1319e6bd6ff552fff0c2.jpg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1161"
+    },
+    {
+      title: "Ekstra diskon 15% + Gratis CD Deluxe Maliq & Dessential di Blibli.com",
+      merchant: "blibli.com ",
+      merchant_logo: "http://m.bnizona.com/files/e5037e24126064d09e70b9b6d3673e04.png",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1160"
+    },
+    {
+      title: "Nikmati kenyamanan layanan perbankan digital di BNI e-Branch",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 31 December 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1094"
+    },
+    {
+      title: "Transaksi dengan PIN Kartu Kredit BNI",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1084"
+    },
+    {
+      title: "BNI Twitter #Hashtag",
+      merchant: "BNI Experience",
+      merchant_logo: "http://m.bnizona.com/files/cfabf057560e5cbfd6fc62e988864c55.jpg",
+      valid_until: "valid until 31 December 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1077"
+    }
+  ],
+  Entertainment: [
+    {
+      title: "Langganan MNC Play Pay 8 Get Free 4 months atau Pay 4 Get Free 2 months ",
+      merchant: "MNC Play",
+      merchant_logo: "http://m.bnizona.com/files/5e18ed1489139812180601e653ff3038.jpg",
+      valid_until: "valid until 14 June 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/28/961"
+    }
+  ],
+  Sports: [
+    {
+      title: "Diskon hingga 15% brand Nike dengan Kartu Kredit BNI",
+      merchant: "Nike",
+      merchant_logo: "http://m.bnizona.com/files/fa99c38a91b79717219061b5966a0b58.jpg",
+      valid_until: "valid until 18 March 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/34/1116"
+    }
+  ],
+  Hobbies: [
+    {
+      title: "BNI JAVA JAZZ FESTIVAL 2016 - INSTAGRAM PHOTO CONTEST",
+      merchant: "BNI ",
+      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+      valid_until: "valid until 31 March 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/39/1174"
+    },
+    {
+      title: "Mari Belajar di 88 ENGLISH Surabaya, Diskon 30%",
+      merchant: "88 ENGLISH",
+      merchant_logo: "http://m.bnizona.com/files/cc8b1130e7c88c6ef0466fe992c91945.jpg",
+      valid_until: "valid until 08 May 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/39/846"
+    }
+  ]
+}
