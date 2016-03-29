@@ -5,7 +5,7 @@ Node.js web scraper with x-ray.
 Run `node app.js`.
 
 ### Input
-[BNI Zona Promotions page)[http://m.bnizona.com/index.php/promo]
+(BNI Zona Promotions page)[http://m.bnizona.com/index.php/promo]
 
 ### Output
 
