@@ -1,204 +1,258 @@
 {
   Fashion: [
     {
-      title: "GRATIS Gelang Swarovski dengan Kartu Debit BNI ",
-      merchant: "Shafira",
-      merchant_logo: "http://m.bnizona.com/files/6efcf507ce5bd867ad106939fc2110ae.jpg",
-      valid_until: "valid until 03 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1169"
-    },
-    {
-      title: "BNI - ZALORA THURSDAY SPECIAL",
-      merchant: "www.zalora.co.id",
-      merchant_logo: "http://m.bnizona.com/files/83481f460ae09ecbee0096962d38d6ce.png",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1134"
-    },
-    {
       title: "Cicilan 0% untuk 3 & 6 bulan di Euroskinlab",
       merchant: "EuroSkinLab",
       merchant_logo: "http://m.bnizona.com/files/2b6cf24b89f4d0cb20fa6c64470e3f22.jpg",
       valid_until: "valid until 31 October 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1124"
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1124",
+      promo_details_title: "Cicilan 0% untuk 3 & 6 bulan di Euroskinlab",
+      promo_details_description: "- Cicilan 0% untuk 3 & 6 bulan dengan minimal transaksi Rp1,5 juta  \n- Promo berlaku untuk semua Kartu Kredit BNI (kecuali Hasanah & Corporate Card)        \n- Promo diskon dan cicilan dapat digabungkan        \n- Berlaku hingga 31 Oktober 2016",
+      promo_image: "http://m.bnizona.com//files/4ae5658c876e5a7bc4974c6cbe2ce2e8.jpg"
     },
     {
       title: "Cicilan 0% di Bimbi.com dengan Kartu Kredit BNI",
       merchant: "Bimbi.com",
       merchant_logo: "http://m.bnizona.com/files/4d59952517d21daf4a16fdbeec17379b.jpg",
       valid_until: "valid until 30 June 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1120"
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1120",
+      promo_details_title: "Cicilan 0% di Bimbi.com dengan Kartu Kredit BNI",
+      promo_details_description: "Periode program: hingga 30 Juni 2016\nSyarat & Ketentuan:\n\n\tCicilan 0% untuk periode cicilan 3 dan 6 bulan di www.bimbi.com.\n\tMinimum transaksi yang dapat dicicil Rp2.000.000,- untuk tenor 3 bulan atau Rp5.000.000,- untuk tenor 6 bulan.\n\tInstallment langsung dilakukan di website www.bimbi.com.\n\tBerlaku untuk semua jenis Kartu Kredit BNI kecuali iB Hasanah dan Corporate Card.\n\nInformasi lebih lengkap hubungi BNI Call di 1500046\n ",
+      promo_image: "http://m.bnizona.com//files/4d348fc12436aa42d92d070046c149d0.jpg"
     },
     {
       title: "Diskon 10% di EVB dengan Kartu Kredit BNI",
       merchant: "EVB",
       merchant_logo: "http://m.bnizona.com/files/5325a2ce1fd2a9d3bbee1a5a76ead381.jpg",
       valid_until: "valid until 30 September 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1115"
-    },
-    {
-      title: "Hemat hingga 100% dengan BNI Reward Points di Superdry",
-      merchant: "Superdry",
-      merchant_logo: "http://m.bnizona.com/files/9c161fd3e5e6afba21dd3c41e29e4e3f.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1114"
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1115",
+      promo_details_title: "Diskon 10% di EVB dengan Kartu Kredit BNI",
+      promo_details_description: "- Diskon 10% dengan Kartu Kredit BNI kecuali iB Hasanah dan Corporate Card.\n- Promo hingga 30 September 2016.\n ",
+      promo_image: "http://m.bnizona.com//files/23886e44e93ef2a44ac759f95b520136.jpg"
     },
     {
       title: "Diskon 15% di Point Break dengan Kartu Kredit BNI",
       merchant: "Point Break",
       merchant_logo: "http://m.bnizona.com/files/ee6795b4b96f323e930c9d88139f8c03.jpg",
       valid_until: "valid until 30 June 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1112"
-    },
-    {
-      title: "Cantik dengan THEFACESHOP diskon hingga 15%",
-      merchant: "THEFACESHOP",
-      merchant_logo: "http://m.bnizona.com/files/9b5895a577917f999c70aecc6a15088c.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1109"
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1112",
+      promo_details_title: "Diskon 15% di Point Break dengan Kartu Kredit BNI",
+      promo_details_description: "Dapatkan diskon 15% Regular Items Point Break untuk pemegang Kartu Kredit BNI kecuali Corporate Card dan iB Hasanah Card. Periode promo berakhir pada 30 Juni 2016 dan berlaku di seluruh outlet Point Break.\nInfo lengkap hubungi BNI Call 1500046.",
+      promo_image: "http://m.bnizona.com//files/a204544e6a202129800ba45d139e295f.jpg"
     },
     {
       title: "Shopping brand Quiksilver dan DC Shoes diskon 10% ",
       merchant: "Quiksilver",
       merchant_logo: "http://m.bnizona.com/files/542da19361af63b1eb52fca7f17512cc.jpg",
       valid_until: "valid until 18 March 2017",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1108"
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1108",
+      promo_details_title: "Shopping brand Quiksilver dan DC Shoes diskon 10% ",
+      promo_details_description: "Tampil gaya dengan brand Quiksilver dan DC Shoes.\n- Diskon 10% untuk pembelian 2 pcs dengan Kartu Kredit BNI kecuali Corporate Card & iB Hasanah Card\n- Promo hingga 18 Maret 2017.\n- Berlaku di seluruh outlet Quiksilver & DC Shoes.\nInfo lengkap hubungi BNI Call 1500046",
+      promo_image: "http://m.bnizona.com//files/3ccc85b69b543b0e8b9a2dd14a34be12.png"
     },
     {
       title: "Diskon 10% untuk brand Hurley dengan Kartu Kredit BNI",
       merchant: "Hurley",
       merchant_logo: "http://m.bnizona.com/files/07f158d119c0dfd5b77906c87fd7fedf.jpg",
       valid_until: "valid until 18 March 2017",
-      details_link: "http://m.bnizona.com/index.php/promo/view/16/1106"
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1106",
+      promo_details_title: "Diskon 10% untuk brand Hurley dengan Kartu Kredit BNI",
+      promo_details_description: "Maksimalkan gaya sport dengan brand Hurley dan dapatkan diskon 10% untuk pembelian minimal 2 pcs dengan Kartu Kredit BNI. Ketentuan:\n\n\tBerlaku untuk semua Kartu Kredit BNI\n\tBerlaku di outlet Grand Indonesia, Pondok Indah Mall, Plaza Ambarukmo dan Centre Point Medan\n\tPromo berakhir pada 18 Maret 2017\n\n",
+      promo_image: "http://m.bnizona.com//files/ade0e6ed22d208d35d9e66cdbf011493.jpg"
+    },
+    {
+      title: "Diskon 20% Untuk Reguler Items Giordano, Giordano Junior dan Giordano Ladies dengan Kartu Kredit BNI",
+      merchant: "Giordano",
+      merchant_logo: "http://m.bnizona.com/files/5a4372643447cc557de063955fc5c150.jpg",
+      valid_until: "valid until 18 March 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/16/1105",
+      promo_details_title: "Diskon 20% Untuk Reguler Items Giordano, Giordano Junior dan Giordano Ladies dengan Kartu Kredit BNI",
+      promo_details_description: "Gaya sekeluarga dengan Giordano, Giordano Junior dan Giordano Ladies. Diskon 20% untuk transaksi dengan Kartu Kredit BNI (kecuali Corporate Card dan iB Hasanah Card). Promo berakhir pada 18 Maret 2017 dan berlaku di seluruh outlet Giordano.",
+      promo_image: "http://m.bnizona.com//files/9d422e93ec31b3f9affeb65e174cb7df.jpg"
     }
   ],
   Groceries: [
+    {
+      title: "Belanja Murah di Alfamidi dengan Kartu Debit BNI",
+      merchant: "Alfamidi",
+      merchant_logo: "http://m.bnizona.com/files/fa9567ce83ef967c97aaab7afed02fff.jpg",
+      valid_until: "valid until 31 July 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1201",
+      promo_details_title: "Belanja Murah di Alfamidi dengan Kartu Debit BNI",
+      promo_details_description: "- Setiap pembelanjaan minimal Rp 300 ribu dengan Kartu Debit BNI dapat membeli Rinso Anti Noda 900gr dan Molto Trika 400ml hanya Rp 70,-\n- Promo berlaku pada hari Jumat, Sabtu & Minggu.\n- Program tidak berlaku kelipatan.\n- Periode promo hingga 31 Juli 2016.\n\n ",
+      promo_image: "http://m.bnizona.com//files/ded871ce93f316d08377722ea7a0a65f.jpg"
+    },
     {
       title: "Gratis Voucher Belanja Rp 25.000 di Baji Pamai Supermarket dengan Kartu Kredit BNI",
       merchant: "Baji Pamai Supermarket",
       merchant_logo: "http://m.bnizona.com/files/cd526c4b708fea7e52efa7b96c1db395.jpg",
       valid_until: "valid until 18 July 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1200"
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1200",
+      promo_details_title: "Gratis Voucher Belanja Rp 25.000 di Baji Pamai Supermarket dengan Kartu Kredit BNI",
+      promo_details_description: "Berbelanja dengan Kartu Kredit BNI banyak manfaatnya. Gratis voucher belanja Rp 25.000 di Baji Pamai Supermarket hingga tanggal 18 Juli 2016.\nKetentuan:\n- Gratis voucher belanja Rp. 25.000,- per kartu/hari dengan transaksi minimal Rp. 500.000,-.\n- Berlaku kelipatan transaksi sampai dengan Rp. 1.000.000,- atau max voucher Rp 50.000 per kartu/hari.\n- Selama persediaan voucher masih ada atau selama program berlangsung\n- Berlaku setiap hari termasuk hari libur dan weekend\n- Berlaku untuk semua jenis Kartu Kredit BNI kecuali Corporate Card dan Hasanah Card\n ",
+      promo_image: "http://m.bnizona.com//files/cbf476c925d4fe13bb1d7cb9acb1efe0.JPG"
     },
     {
       title: "Gratis Minyak Goreng 2L dan Gulaku di Toko Satu Sama Makassar",
       merchant: "Toko Satu Sama ",
       merchant_logo: "http://m.bnizona.com/files/5f783e37056bda43846f9670e72c290e.jpg",
       valid_until: "valid until 10 July 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1194"
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1194",
+      promo_details_title: "Gratis Minyak Goreng 2L dan Gulaku di Toko Satu Sama Makassar",
+      promo_details_description: "Gratis 1 Pouch Minyak Goreng SunCo 2 Liter untuk 10 kartu/hari dengan transaksi minimal Rp. 500.000,-.\nKetentuan:\n- Tidak berlaku kelipatan atau split transaksi\n- Selama persediaan masih ada atau selama program berlangsung\n- Berlaku untuk Weekdays dan Weekend termasuk libur nasional\n- Berlaku untuk semua jenis Kartu Kredit BNI kecuali Corporate Card dan Hasanah Card.\n- Syarat dan ketentuan berlaku.\nGratis 1 kg Gulaku untuk transaksi minimal Rp. 700.000,-.\nKetentuan:\n- Berlaku unuk 7 transaksi pertama/kartu /hari setiap hari Sabtu dan Minggu.\n- Tidak berlaku kelipatan atau split transaksi.\n- Selama persediaan masih ada atau selama program berlangsung\n- Dapat digabungkan dengan program promo yang berjalan sebelumnya gratis minyak goreng SunCo 2L min transaksi Rp 500.000,-.\n- Berlaku untuk semua jenis Kartu Kredit BNI kecuali Corporate Card dan Hasanah Card, tidak berlaku untuk Kartu Debit BNI.\n- Syarat dan ketentuan berlaku\n\n ",
+      promo_image: "http://m.bnizona.com//files/2547c4c7be9189c35d6fae09a7a9c206.jpg"
+    },
+    {
+      title: "Free Voucher Rp 25.000 dengan Kartu Kredit BNI di Gelael Supermarket Makassar",
+      merchant: "Gelael Supermarket Makassar",
+      merchant_logo: "http://m.bnizona.com/files/3d427e79c43c55ef9aaefd0bdffb0391.jpg",
+      valid_until: "valid until 10 July 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1190",
+      promo_details_title: "Free Voucher Rp 25.000 dengan Kartu Kredit BNI di Gelael Supermarket Makassar",
+      promo_details_description: "Free Voucher Rp 25.000 untuk 10 kartu/hari dengan transaksi minimal Rp. 500.000,-.\nKetentuan:\n- Berlaku kelipatan transaksi sampai dengan Rp. 1.000.000,- atau max voucher Rp 50.000 per kartu/hari.\n- Selama persediaan masih ada atau selama program berlangsung\n- Berlaku untuk Weekdays dan Weekend termasuk libur nasional\n- Berlaku untuk semua jenis Kartu Kredit BNI kecuali Corporate Card dan Hasanah Card.",
+      promo_image: "http://m.bnizona.com//files/ef162844b912de2570d8b126307c73cb.JPG"
     },
     {
       title: "Cashback Rp 70 ribu di Superindo dengan Kartu Kredit BNI",
       merchant: "Super Indo",
       merchant_logo: "http://m.bnizona.com/files/a96a35abc24d8a7fae5d3d5f374c66d7.JPG",
       valid_until: "valid until 24 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1186"
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1186",
+      promo_details_title: "Cashback Rp 70 ribu di Superindo dengan Kartu Kredit BNI",
+      promo_details_description: "Dalam rangka memeriahkan ulang tahun BNI ke 70, setiap belanja di Superindo akan mendapatkan cashback Rp.70.000,- dengan Kartu Kredit BNI. Mekanisme:\n- Cashback Rp 70.000,- untuk minimum transaksi sebesar Rp500.000,- hingga 24 Mei 2016\n- Setiap customer name hanya berhak mendapatkan 1 (satu) kali cashback Rp 70.000,-/hari\n- Promo berlaku untuk semua jenis Kartu Kredit BNI kecuali Kartu Kredit Corporate dan iB Hasanah\n- Promo berlaku setiap hari\n- Tidak berlaku kelipatan dan penggabungan transaksi\n- Pengkreditan cashback akan dilakukan melalui sistem BNI dan paling cepat dilakukan 1 (satu) bulan setelah dilakukan transaksi\nInformasi lengkap hubungi BNI Call 1500046\n ",
+      promo_image: "http://m.bnizona.com//files/e2635fd914a01d294aeaf3bb68b61f7d.jpg"
     },
     {
       title: "Menangkan Emas, Sepeda Motor dan hadiah lainnya di SJS Plaza Padang ",
       merchant: "SJS Plaza Padang",
       merchant_logo: "http://m.bnizona.com/files/ce2b77c5062f5b0e8998ef84f2a1c913.png",
       valid_until: "valid until 07 August 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1185"
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1185",
+      promo_details_title: "Menangkan Emas, Sepeda Motor dan hadiah lainnya di SJS Plaza Padang ",
+      promo_details_description: "Undian berhadiah Emas, Sepeda Motor dan hadiah lainnya setiap transaksi dengan Kartu Kredit dan Debit BNI di SJS Plaza Padang hingga 7 Agustus 2016.\nProgram Undian berhadiah sebagai berikut :\n- Hadiah Utama 4 unit Sepeda Motor (off the road) hanya berlaku untuk pengguna kartu BNI (2 unit untuk pengguna kartu kredit dan 2 unit untuk pengguna kartu debit).\n- Selain kesempatan untuk mendapatkan hadiah sepeda motor pengguna kartu BNI juga mempunyai Kesempatan untuk memenangkan hadiah 500 gr emas dan hadiah elektronik lainnya (lihat gambar).\n- Setiap minimal transaksi Rp.500,000,- dengan Kartu Kredit atau Debit BNI akan mendapatkan 1 kupon undian untuk hadiah sepeda motor dan juga mendapatkan 1 kupon undian SJS untuk hadiah yang disediakan SJS Plaza dan berlaku kelipatan.\n- Undian akan dilakukan pada tanggal 17 Agustus 2016.\n- Pajak undian ditanggung pemenang dan warna motor tidak bisa dipilih.\n- Berlaku untuk seluruh jenis Kartu Kredit BNI kecuali iB Hasanah Card dan Corporate card\n- Berlaku setiap hari selama periode program termasuk hari libur Nasional dan Lokal.\n ",
+      promo_image: "http://m.bnizona.com//files/78a68596612583469ab239dc858dc5c6.jpg"
     },
     {
       title: "Pasar Buah Tebar Hadiah dengan Kartu Kredit & Debit BNI",
       merchant: "Pasar Buah Group",
       merchant_logo: "http://m.bnizona.com/files/a8aa7ae54678fffa54836219e6294a33.jpg",
       valid_until: "valid until 14 September 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1184"
-    },
-    {
-      title: "Penawaran spesial belanja di LOTTE Mart dengan Kartu Debit BNI",
-      merchant: "LOTTEMart Hypermarket",
-      merchant_logo: "http://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1177"
-    },
-    {
-      title: "Gratis 5 Produk di Tip Top Swalayan dengan Kartu Kredit BNI",
-      merchant: "Tip Top Swalayan",
-      merchant_logo: "http://m.bnizona.com/files/9ce11ea608637f8f53b4d19220ccb827.jpg",
-      valid_until: "valid until 03 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1163"
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1184",
+      promo_details_title: "Pasar Buah Tebar Hadiah dengan Kartu Kredit & Debit BNI",
+      promo_details_description: "Gunakan terus Kartu Kredit atau Debit BNI Anda setiap berbelanja di Pasar Buah Group. Dapatkan kupon undian berhadiah Sepeda Motor dan alat elektronik lainnya.\nProgram Undian berhadiah sebagai berikut :\n- Hadiah Utama 4 unit Sepeda Motor (off the road) hanya berlaku untuk pengguna kartu BNI (1 unit untuk pengguna kartu kredit , 1 unit untuk pengguna kartu debit dan 2 unit utk costumer Pasar buah).\n- Selain kesempatan untuk mendapatkan hadiah sepeda motor pengguna kartu BNI juga mempunyai kesempatan untuk memenangkan 2 unit sepeda motor pasar buah group  hadiah elektronik yang disediakan BNI dan Pasar Buah Group.\n- Setiap minimal transaksi Rp.250,000,- dengan Kartu Kredit atau Debit BNI akan mendapatkan 1 kupon undian untuk hadiah sepeda motor dan juga mendapatkan 1 kupon undian Pasar Buah untuk hadiah yang disediakan Pasar Buah dan berlaku kelipatan.\n- Undian akan dilakukan setelah peruiode program berakhir\n- Pajak balik nama ditanggung pemenang dan warna motor tidak bisa dipilih.\n- Berlaku untuk seluruh jenis Kartu Kredit BNI kecuali iB Hasanah Card dan Corporate card\n- Berlaku setiap hari selama periode program termasuk hari libur Nasional dan Lokal.\n ",
+      promo_image: "http://m.bnizona.com//files/672f2c796f868fe74bd82182e52935be.jpg"
     },
     {
       title: "Tambahan diskon 20% fresh product di LOTTEMart Hypermaket dan Supermaket",
       merchant: "LOTTEMart Hypermarket",
       merchant_logo: "http://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
       valid_until: "valid until 30 June 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/17/1121"
+      details_link: "http://m.bnizona.com/index.php/promo/view/17/1121",
+      promo_details_title: "Tambahan diskon 20% fresh product di LOTTEMart Hypermaket dan Supermaket",
+      promo_details_description: "Syarat & Ketentuan:\n1. Berlaku untuk seluruh jenis Kartu Kredit BNI kecuali Corporate Card dan iB Hasanah\n2. Tambahan diskon 20% untuk produk segar tertentu setiap hari Senin s.d. Kamis selama periode 11 Januari – 30 Juni 2016, tanpa adanya minimum transaksi.\n3. Jenis produk segar sebagai berikut:\n- Hari Senin : kategori daging dan ikan\n- Hari Selasa : kategori Bakery & RTE (ready to eat)\n- Hari Rabu : kategori buah\n- Hari Kamis : kategori sayuran\n4. Berlaku untuk 1 transaksi/kartu/hari\n5. Maksimum diskon Rp100.000,- /transaksi/kartu/hari\n6. Tidak dapat digabungkan dengan promo lain.",
+      promo_image: "http://m.bnizona.com//files/6e1eb6221ac6a598bd19f2722c0b1213.jpg"
     }
   ],
   Food and Beverage: [
+    {
+      title: "Cashback 7% setiap belanja di Bandeng Juwana Semarang dengan Kartu Kredit BNI",
+      merchant: "Bandeng Juwana ",
+      merchant_logo: "http://m.bnizona.com/files/4584eb62df0adce15ba883853113dbe5.jpg",
+      valid_until: "valid until 30 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1206",
+      promo_details_title: "Cashback 7% setiap belanja di Bandeng Juwana Semarang dengan Kartu Kredit BNI",
+      promo_details_description: "Belanja Bandeng Juwana gunakan Kartu Kredit BNI. Setiap transaksi minimal Rp 700.000,- akan mendapatkan cashback sebesar 7% atau maksimal Rp 70.000,-\nKetentuan:\n- Berlaku untuk 70 orang pertama pengguna Kartu kredit BNI selama periode program\n- Sistem cashback akan otomatis dilakukan oleh sistem paling cepat 30 hari setelah periode promo berakhir\n- Hemat hingga 70% atau maksimal senilai Rp 1.000.000,- dengan BNI Redeem Point dengan nilai konversi 1 poin sebesar Rp 7,-\n- Berlaku bagi semua pengguna Kartu Kredit BNI kecuali iB Hasanah dan Corporate Card",
+      promo_image: "http://m.bnizona.com//files/f41cbd5b9484a2eea99dc52133ebafad.jpeg"
+    },
     {
       title: "Diskon 25% di Bamboe Hijau Seafood Medan",
       merchant: "Bamboe Hijau Seafood",
       merchant_logo: "http://m.bnizona.com/files/dcf528a45ee16bdd15ab9f72684fad1e.jpg",
       valid_until: "valid until 04 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1191"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1191",
+      promo_details_title: "Diskon 25% di Bamboe Hijau Seafood Medan",
+      promo_details_description: "Nikmati sajian seafood lezat dan fresh di Bamboe Hijau Seafood Medan dengan Kartu Kredit BNI hingga 4 Mei 2016.\nKetentuan:\n- Diskon 25% berlaku untuk makanan & minuman, min. trx Rp. 150.000,- Maks Rp. 1.500.000,-\n- Hemat 50% dengan BNI Reward Point, maks penukaran point Rp. 1.500.000,-\n- Tidak berlaku untuk catering dan take away\n- Berlaku untuk semua jenis Kartu Kredit BNI kecuali  Corporate Card dan IB Hasanah Card",
+      promo_image: "http://m.bnizona.com//files/c28f013174a42a97d62bf4fec01eb3d5.jpg"
     },
     {
       title: "Dining Experience di The Trader Medan dengan Kartu BNI",
       merchant: "The Traders Restaurant",
       merchant_logo: "http://m.bnizona.com/files/4ce2e0ac3362b9837163e217e03e0d8f.jpg",
       valid_until: "valid until 30 June 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1189"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1189",
+      promo_details_title: "Dining Experience di The Trader Medan dengan Kartu BNI",
+      promo_details_description: "Gunakan Kartu Kredit dan Debit BNI untuk transaksi di The Trader Medan. Nikmati berbagai keuntungan untuk sajian istimewa. Promo berakhir pada 30 Juni 2016. Ketentuan:\n- Diskon 15% khusus untuk makanan, Min trx Rp. 200.000,-\n- Free Dessert setiap min trx Rp.500.000,- selama periode tertentu dalam masa program promo\n- Buy 1 get 1 khusus wine selama periode tertentu\n- Tidak berlaku untuk catering dan take away\n- Hemat 50% dengan BNI Reward Point, maks penukaran point Rp. 1.500.000,-\n- Berlaku untuk seluruh jenis Kartu BNI kecuali iB Hasanah card, Corporate card & Dbit Syariah Card\n ",
+      promo_image: "http://m.bnizona.com//files/9e6f7f6186d196492ce38893a26e64e3.jpg"
     },
     {
       title: "Hemat hingga 50% dengan BNI Reward Points dan 20% dengan Kartu Kredit BNI",
       merchant: "Pizza Marzano",
       merchant_logo: "http://m.bnizona.com/files/e143153b0d0c7dbafa2863451b7f4a31.jpg",
       valid_until: "valid until 31 August 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1180"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1180",
+      promo_details_title: "Hemat hingga 50% dengan BNI Reward Points dan 20% dengan Kartu Kredit BNI",
+      promo_details_description: "Nikmati sajian Pizza istimewa di seluruh outle Pizza Marzano/Pizza Express hingga 31 Agustus 2016.\nPromo Diskon :\n\n\tDiskon 20% hanya berlaku setiap hari untuk transaksi Food & Beverage.\n\tPromo berlaku untuk Kartu Kredit BNI Gold, Titanium, Platinum dan Infinite, Kartu Debit BNI Gold, Platinum & Emerald kecuali Kartu Kredit BNI Silver, Garuda BNI Platinum & Signature, Corporate Card & iB Hasanah Card, Kartu Debit Silver.\n\tPromo berlaku untuk pembelian seluruh Pizza Marzano & Pizza Express Menu kecuali Kid's Menu, Packaged Menu (Lunch Packaged, Buffet Set, Brunch Packaged, dll.) dan Alcohol beverages.\n\tPromo berlaku untuk dine in (tidak berlaku take away).\n\tPromo tidak dapat digabungkan dengan promo lainnya yang sedang berlangsung.\n\tMin. transaksi Rp. 250.000,- dan max. transaksi Rp. 2.000.000,- (sebelum diskon, pajak, dan service).\n\tSyarat dan ketentuan berlaku.\n\n Promo BNI Reward Points :\n\n\n\tHemat hingga 50% dengan BNI Reward Points untuk minimal transaksi Rp 250.000,-.\n\tPromo berlaku untuk semua jenis Kartu Kredit (Silver, Gold, Titanium, Platinum dan Infinite) kecuali Kartu Kredit Garuda BNI Platinum & Signature, Corporate Card & iB Hasanah Card.\n\tPromo BNI Reward Points dapat digabungkan dengan promo diskon 20%.\n\tSyarat dan ketentuan berlaku.\n\n",
+      promo_image: "http://m.bnizona.com//files/9e53d08c95480f7ea4b5acd4bfd4a361.jpg"
     },
     {
       title: "BNI Dining Experience",
       merchant: "BNI Experience",
       merchant_logo: "http://m.bnizona.com/files/cfabf057560e5cbfd6fc62e988864c55.jpg",
       valid_until: "valid until 31 January 2017",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1153"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1153",
+      promo_details_title: "BNI Dining Experience",
+      promo_details_description: "Nikmati sajian istimewa menyambut Imlek bersama keluarga dan orang terkasih di resto favorit Anda. Gunakan selalu Kartu Kredit dari Bank Negara Indonesia untuk mendapatkan berbagai penawaran menarik.\n\n* BRP = BNI Reward Point\n* Syarat & Ketentuan berlaku",
+      promo_image: "http://m.bnizona.com//files/265110ffe470d699a5553a1c46d0bb88.jpg"
     },
     {
       title: "Diskon hingga 33% santap di Grand Suki dengan Kartu Kredit BNI",
       merchant: "Grand Suki",
       merchant_logo: "http://m.bnizona.com/files/9ca3491e3432942cf0fda60e13b1535f.png",
       valid_until: "valid until 30 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1151"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1151",
+      promo_details_title: "Diskon hingga 33% santap di Grand Suki dengan Kartu Kredit BNI",
+      promo_details_description: "Nikmati diskon hingga 33% untuk santap istimewa di Grand Suki dengan Kartu Kredit BNI.\nKetentuan:\n- Diskon sebesar 33% food only di Weekdays (Senin - Jumat).   \n- Diskon sebesar 25%  food only di Weekend (Sabtu & Minggu)\n- Min. transaksi Rp. 350.000,- dan max. transaksi Rp. 1.500.000,- (sebelum diskon, pajak, dan service)   \n- Promo berlaku untuk dine in (tidak berlaku take away)   \n- Promo tidak dapat digabungkan dengan promo lainnya yang sedang berlangsung   \n- Berlaku untuk seluruh Kartu Kredit BNI kecuali Corporate Card dan iB Hasanah Card",
+      promo_image: "http://m.bnizona.com//files/d21706bbc21759046adf43938a3479c0.jpg"
     },
     {
       title: "Diskon 20% di Imperial Chef dengan Kartu Kredit BNI",
       merchant: "Imperial Chef",
       merchant_logo: "http://m.bnizona.com/files/eec79aa555e7cd5c4ffaabb0451700f7.png",
       valid_until: "valid until 30 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1149"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1149",
+      promo_details_title: "Diskon 20% di Imperial Chef dengan Kartu Kredit BNI",
+      promo_details_description: "Makan istimewa bersama keluarga di Imperial Chef dengan Kartu Kredit BNI.\nKetentuan:\n- Diskon 20% (food & beverage) dengan minimum transaksi Rp. 500.000,-\n- Maksimum transaksi Rp. 1.500.000,- (before tax & service)\n- Semua Kartu Kredit BNI Titanium, Platinum dan Infinite dan tidak berlaku untuk jenis BNI Classic/Silver Card, Gold Card, Corporate Card, & iB Hasanah Card\n- Promo diskon tidak berlaku untuk set menu dan minuman beralkohol\n- Tidak berlaku split transaksi dan tidak dapat digabungkan dengan promo lainnya\n- Promo hanya berlaku untuk dine in",
+      promo_image: "http://m.bnizona.com//files/9a7f1efc69639428155602f58fe4a327.jpg"
     },
     {
       title: "Diskon hingga 33% santap di Han Gang Korean Restaurant dengan Kartu Kredit BNI",
       merchant: "Han Gang",
       merchant_logo: "http://m.bnizona.com/files/1df466566de3fdebb53e86addecc1427.jpg",
       valid_until: "valid until 30 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1148"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1148",
+      promo_details_title: "Diskon hingga 33% santap di Han Gang Korean Restaurant dengan Kartu Kredit BNI",
+      promo_details_description: "Nikmati diskon hingga 33% untuk santap istimewa di Han Gang Korean Restaurant dengan Kartu Kredit BNI.\nKetentuan:\n- Diskon sebesar 33% food only di Weekdays (Senin - Jumat).   \n- Diskon sebesar 25%  food only di Weekend (Sabtu & Minggu)\n- Min. transaksi Rp. 350.000,- dan max. transaksi Rp. 1.500.000,- (sebelum diskon, pajak, dan service)   \n- Promo berlaku untuk dine in (tidak berlaku take away)   \n- Promo tidak dapat digabungkan dengan promo lainnya yang sedang berlangsung   \n- Berlaku untuk seluruh Kartu Kredit BNI kecuali Corporate Card dan iB Hasanah Card",
+      promo_image: "http://m.bnizona.com//files/a6482c428aeae99ed0997dfa9aa2db51.jpg"
     },
     {
       title: "Diskon 15% dengan Kartu Kredit BNI di Shokupan",
       merchant: "Shokupan Bakery & Cakes",
       merchant_logo: "http://m.bnizona.com/files/8db79f0d9134dd99ee9bdcc284cada6d.png",
       valid_until: "valid until 15 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1147"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1147",
+      promo_details_title: "Diskon 15% dengan Kartu Kredit BNI di Shokupan",
+      promo_details_description: "Transaksi Bakery & Cake di Shokupan bisa dapat diskon 15% dengan Kartu Kredit BNI.\nKetentuan:\n- Dapatkan Diskon 15% minimum transaksi Rp 150.000,- maksimum transaksi Rp 1.500.000,-\n- Promo berlaku untuk seluruh produk (kecuali item promo, item paket dan produk hampers)\n- Promo berlaku untuk semua Kartu Kredit BNI kecuali Corporate & iB Hasanah Card\n- Promo berlaku setiap hari termasuk hari libur Nasional\n- Tidak berlaku split bill\n- Tidak dapat digabungkan dengan promo lainnya",
+      promo_image: "http://m.bnizona.com//files/caa71e277ca197fa1b5c367cb934a5b1.jpg"
     },
     {
       title: "Free Payung di Rumah Buah dengan Kartu Kredit BNI",
       merchant: "Rumah Buah",
       merchant_logo: "http://m.bnizona.com/files/1803ad0fb4b2f201b0dad05500ae69c6.png",
       valid_until: "valid until 14 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1146"
-    },
-    {
-      title: "Diskon 10% untuk Paket Big Box dengan Kartu Kredit BNI",
-      merchant: "Pizza Hut Delivery",
-      merchant_logo: "http://m.bnizona.com/files/085f0e6c028f61994d1f3fb4f4878799.jpg",
-      valid_until: "valid until 24 January 2017",
-      details_link: "http://m.bnizona.com/index.php/promo/view/18/1145"
+      details_link: "http://m.bnizona.com/index.php/promo/view/18/1146",
+      promo_details_title: "Free Payung di Rumah Buah dengan Kartu Kredit BNI",
+      promo_details_description: "Musim hujan perlu payung. Belanja di Rumah Buah, Gratis Payung.\nKetentuan:\n- Gratis Payung untuk minimum transaksi Rp 350.000,-\n- Promo berlaku untuk semua Kartu Kredit BNI kecuali Kartu Kredit BNI Corporate, Garuda BNI Platinum & Siganture dan iB Hasanah Card\n- Promo hanya berlaku di outlet Total Buah/Rumah Buah yang bekerjasama dengan BNI\n- Tidak berlaku kelipatan dan split transaksi",
+      promo_image: "http://m.bnizona.com//files/e24e97d5b380a52d7b3147bb4a6770f6.jpg"
     }
   ],
   Electronic: [
@@ -207,141 +261,148 @@
       merchant: "Showroom Elektronik 88",
       merchant_logo: "http://m.bnizona.com/files/3070dc904f9324d3c0f99accaa4490dc.jpg",
       valid_until: "valid until 23 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/19/835"
-    },
-    {
-      title: "Installment 0% di Global Computer",
-      merchant: "Global Computer",
-      merchant_logo: "http://m.bnizona.com/files/88735f145c714cfee8f4e28aa2857456.jpg",
-      valid_until: "valid until 05 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/19/827"
-    },
-    {
-      title: "Installment 0% 6 & 12 bulan di Global Electronic",
-      merchant: "Global Elektronik",
-      merchant_logo: "http://m.bnizona.com/files/3021a771c439709a14a0b97ca6065364.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/19/791"
+      details_link: "http://m.bnizona.com/index.php/promo/view/19/835",
+      promo_details_title: "Installment 0% di Showroom Elektronik 88",
+      promo_details_description: "\n\tInstallment 0% periode 6 dan 12 bulan dengan Kartu Kredit BNI selama periode program\n\tMinimal Transaksi Rp 500.000, (lima ratus  ribu rupiah).\n\tBerlaku untuk semua produk\n\tBerlaku semua jenis Kartu Kredit BNI (kecuali Hasanah Card dan Corporate Card)\n\tBerlaku setiap hari termasuk tanggal merah dan weekend\n\tBerlaku setiap hari selama periode program\n\n",
+      promo_image: "http://m.bnizona.com//files/0aadebf8655093118b08c87f9091330a.jpg"
     }
   ],
   Gadget: [
     {
-      title: "CASHBACK hingga Rp. 400.000,- + Cicilan 0% sd 18 bulan di store ERAFONE",
-      merchant: "Erafone Store",
-      merchant_logo: "http://m.bnizona.com/themes/default/images/noimage.jpg",
-      valid_until: "valid until 03 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/20/1192"
+      title: "Get CASHBACK upto IDR500.000 with BNI Credit Card @TelesindoShop & Megafon",
+      merchant: "Telesindo Shop",
+      merchant_logo: "http://m.bnizona.com/files/8a5b10a4752e47b184d3a1bd59ea29d4.jpg",
+      valid_until: "valid until 30 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/20/1202",
+      promo_details_title: "Get CASHBACK upto IDR500.000 with BNI Credit Card @TelesindoShop & Megafon",
+      promo_details_description: "- Dapatkan Cashback hingga Rp 500 ribu untuk pembelian Samsung Galaxy S7 di Telesindo Shop & Megafon\n- Instalment 0% hingga 12 bulan\n- Berlaku untuk pemilik Kartu Kredit BNI\n- Periode program : 01 - 30 April 2016\n ",
+      promo_image: "http://m.bnizona.com//files/da3110448ac190c1534e8e299fb868df.jpg"
     },
     {
       title: "Cashback up to Rp.350,000 di WW Ponsel Pekanbaru",
       merchant: "WW Ponsel",
       merchant_logo: "http://m.bnizona.com/files/7b61224c363d81e55f771309ce8c913d.png",
       valid_until: "valid until 06 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/20/1183"
+      details_link: "http://m.bnizona.com/index.php/promo/view/20/1183",
+      promo_details_title: "Cashback up to Rp.350,000 di WW Ponsel Pekanbaru",
+      promo_details_description: "Belanja gadget semakin hemat dengan Kartu Kredit BNI di WW Ponsel Pekanbaru. Promo berlaku hingga 6 Mei 2016.\nKetentuan:\n- Cashback Rp.150,000,- minimal transaksi Rp.2,000,000,- untuk 15 pembeli pertama\n- Cashback Rp.200,000,- minimal transaksi Rp.3,000,000,- untuk 15 pembeli pertama\n- Cash Back Rp. 350,000,- minimal transaksi Rp.5,000,000,- untuk 15 pembeli pertama\n- Berlaku installment 0% periode 6 dan 12 bulan minimal Transaksi Rp.500,000,-\n- Berlaku setiap hari termasuk hari libur Nasional & Lokal selama periode promo\n- Berlaku untuk semua jenis Kartu Kredit BNI kecuali  Corporate Card dan IB Hasanah Card \n- Berlaku satu kartu/hari/transaksi\n- Tidak berlaku split transaksi/kelipatan transaksi",
+      promo_image: "http://m.bnizona.com//files/60968acd1d4a0ed7566f72bf818752bd.jpg"
     },
     {
       title: "Installment 0% di Link Cell Division",
       merchant: "Link Cell Division",
       merchant_logo: "http://m.bnizona.com/files/b93bdc03c09633a06b0de1ed33e489bf.jpg",
       valid_until: "valid until 19 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/20/828"
+      details_link: "http://m.bnizona.com/index.php/promo/view/20/828",
+      promo_details_title: "Installment 0% di Link Cell Division",
+      promo_details_description: "\n\tInstallment 0% periode 3, 6 dan 12 bulan dengan Kartu Kredit BNI selama periode program\n\tMinimal Transaksi Rp 500.000,- (lima ratus ribu rupiah).\n\tBerlaku untuk semua produk\n\tBerlaku semua jenis kartu kredit BNI (kecuali Hasanah Card dan Corporate Card)\n\tBerlaku setiap hari termasuk tanggal merah dan weekend\n\tBerlaku setiap hari selama periode program\n\n",
+      promo_image: "http://m.bnizona.com//files/6e8a0740d6dcadfd9900fd651bbe914f.jpg"
     }
   ],
   Home: [
     {
-      title: "March Superb Deals di Kawan Lama Retail Cashback up to Rp 300 ribu ",
-      merchant: "Kawan Lama Group",
-      merchant_logo: "http://m.bnizona.com/files/202a92a56cd1051520f8c858f83eb8fe.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/21/1193"
+      title: "Penawaran istimewa BNI Griya di REI Expo 2016",
+      merchant: "Jakarta Convention Center",
+      merchant_logo: "http://m.bnizona.com/files/4e421edbf203f21097617f2e9c426a25.jpg",
+      valid_until: "valid until 10 April 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/21/1196",
+      promo_details_title: "Penawaran istimewa BNI Griya di REI Expo 2016",
+      promo_details_description: "Khusus bagi anda yang mengajukan BNI Griya pembelian properti di Developer peserta REI Expo 2016 di JCC Senayan tanggal 02 - 10 April 2016, kami memberikan berbagai benefit sebagai berikut:\n- Suku bunga ringan dan tetap selama 5 tahun pertama, mulai dari 0%\n- Bebas biaya provisi dan administrasi\n- Proses Instan Approval\n- Total cash back hingga Rp 630 juta\nProgram berlaku untuk pembelian rumah, apartemen, ruko/rukan baru di Developer peserta REI Expo 2016 yang telah memiliki kerjasama (PKS) dengan BNI.\nProgram BNI Griya REI Expo 2016 ini berlaku untuk aplikasi lengkap diterima oleh BNI mulai tanggal 28 Maret 2016 s.d. 22 April 2016.\nInformasi lengkap hubungi Kantor Cabang BNI terdekat atau BNI Call 1500046\n ",
+      promo_image: "http://m.bnizona.com//files/37c2962818d7389d9438201097722879.jpg"
     },
     {
       title: "Diskon hingga 15% di KARE Design",
       merchant: "KARE Design",
       merchant_logo: "http://m.bnizona.com/files/f5dbf2f029c3764efb2ab8fa3ef0fb30.jpg",
       valid_until: "valid until 30 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/21/1164"
+      details_link: "http://m.bnizona.com/index.php/promo/view/21/1164",
+      promo_details_title: "Diskon hingga 15% di KARE Design",
+      promo_details_description: "- Periode program : 1 Februari 2016 s.d. 30 April 2016\n- Lokasi : KARE 6th floor Senayan City Mall, Jakarta\nMekanisme :\n- Diskon 15% untuk produk terpilih khusus pengguna Kartu Kredit BNI Platinum & Infinite.\n- Diskon 10% untuk produk terpilih khusus pengguna Kartu Kredit BNI Silver, Gold & Titanium.\n- Tidak berlaku untuk Kartu Kredit BNI Corporate dan iB Hasanah.\n- Promo tidak dapat digabung dengan promo lainnya.",
+      promo_image: "http://m.bnizona.com//files/f10104bbac675e148150ffcc633d3db9.jpg"
     }
   ],
   Travel: [
+    {
+      title: "Garuda Wonderful Wednesday Visa",
+      merchant: "Garuda Indonesia",
+      merchant_logo: "http://m.bnizona.com/files/8a69f74e29be0dd428a0c844a4355a0f.jpg",
+      valid_until: "valid until 30 September 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/1209",
+      promo_details_title: "Garuda Wonderful Wednesday Visa",
+      promo_details_description: "- Date of Issue : April – September 2016 (berlaku pemesanan setiap hari Rabu)\n- Date of Travel : hingga 30 September 2017\n- Rute : semua rute internasional dan domestik\n- Jenis Kartu : Semua jenis Kartu Kredit BNI Reguler berlogo Visa\nSyarat & Ketentuan :\n- Diskon hingga 7.5% dengan Kartu Kredit BNI Reguler (Silver, Gold, Platinum dan Infinte) berlogo Visa\n- Diskon hingga 10% dengan Kartu Kredit BNI Co-Brand Garuda (Platinum dan Signature)\n- Extra 100 miles untuk pembelian 1 tiket pulang pergi kelas ekonomi semua rute, CH wajib memasukkan no GarudaMiles pada saat pemesanan\n- Diskon didapat dengan memasukkan kode voucher GAVISA\n- Pemesanan hanya dapat dilakukan melalui www.garuda-indonesia.com/wonderfulwednesday pada hari Rabu setiap minggunya\n- Promo dapat digabungkan dengan program cicilan (0%3bln + bunga ringan 0.6% 6 - 12bln) yang sedang berjalan melalui website\n ",
+      promo_image: "http://m.bnizona.com//files/d61762a50609b59c81fd57808b45c87c.jpg"
+    },
     {
       title: "Diskon hingga Rp30 ribu pemesanan Kereta Api di tiket.com",
       merchant: "Tiket.com",
       merchant_logo: "http://m.bnizona.com/files/2d3edd6cf645fe42975f7eeda602c69f.png",
       valid_until: "valid until 24 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/23/1198"
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/1198",
+      promo_details_title: "Diskon hingga Rp30 ribu pemesanan Kereta Api di tiket.com",
+      promo_details_description: "- Booking Period : 24 Maret – 24 April 2016\n- Jenis Kartu : Semua jenis Kartu Kredit BNI (Visa & MasterCard) tidak termasuk Corporate Card dan iB Hasanah Card.\nMekanisme Program : \n- Potongan langsung Rp 30.000,- untuk pemesanan Kereta Api dengan menggunakan Kartu Kredit BNI berlogo Visa di Tiket.com. Masukkan kode voucher TIXBNI30.\n- Potongan langsung Rp 20.000,- untuk pemesanan Kereta Api dengan menggunakan Kartu Kredit BNI berlogo Mastercard di Tiket.com. Masukkan kode voucher TIXBNI20.\n- Diskon berlaku dengan minimum transaksi Rp 200.000,-\n- Berlaku untuk semua rute dan tanggal keberangkatan\n- Berlaku untuk semua Kartu Kredit BNI (Visa dan Mastercard) termasuk Co-Brand & Affinity,\nkecuali IB Hasanah Card dan Corporate Card\n- Pemesanan dapat dilakukan melalui desktop www.tiket.com/promo-bni mobile apps Tiket.com dan mobile link (m.tiket.com)",
+      promo_image: "http://m.bnizona.com//files/9702840ee4f80cf29d92364994184cfc.jpg"
     },
     {
       title: "GARUDA INDONESIA TRAVEL FAIR",
       merchant: "Garuda Indonesia",
       merchant_logo: "http://m.bnizona.com/files/8a69f74e29be0dd428a0c844a4355a0f.jpg",
       valid_until: "valid until 01 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/23/1197"
-    },
-    {
-      title: "Fly with Emirates Airlines disc. up to 15%",
-      merchant: "Emirates Airlines",
-      merchant_logo: "http://m.bnizona.com/files/75742142f68a22a5a691233f52243f43.jpg",
-      valid_until: "valid until 30 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/23/954"
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/1197",
+      promo_details_title: "GARUDA INDONESIA TRAVEL FAIR",
+      promo_details_description: "Jakarta Convention Center\n29 April 2016 - 01 Mei 2016\nDapatkan harga terbaik dari Garuda Indonesia pada Garuda Indonesia Travel Fair.\nGet FREE Entrance dengan Kartu Kredit BNI.\nApply Kartu Kredit BNI sekarang juga. Klik disini tersedia 500 tiket masuk Garuda Indonesia Travel Fair.",
+      promo_image: "http://m.bnizona.com//files/977d9c71a38aabf406d937115c9bffa9.jpg"
     },
     {
       title: "Sriwijaya Air Cicilan 0% 3, 6 & 12 Bulan pada Online dan Ticketing Office",
       merchant: "Sriwijaya Air",
       merchant_logo: "http://m.bnizona.com/files/bced1f73777c7b1de7b3ef9021b8af23.jpg",
       valid_until: "valid until 15 June 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/23/907"
+      details_link: "http://m.bnizona.com/index.php/promo/view/23/907",
+      promo_details_title: "Sriwijaya Air Cicilan 0% 3, 6 & 12 Bulan pada Online dan Ticketing Office",
+      promo_details_description: "\n\tPeriode promo hingga 15 Juni 2016\n\tBerlaku untuk semua Jenis Kartu Kredit BNI kecuali Corporate Card dan Ib Hasanah Card\n\nSyarat & Ketentuan:\n\n\n\tProgram Installment 0% 3, 6 dan 12 bulan.\n\tBerlaku untuk pembelian tiket secara online pada website www.Sriwijayaair.co.id maupun pada Ticketing Office.\n\tUntuk cicilan 0% (3 & 6 bulan) minimum transaksi Rp500.000,-\n\tUntuk cicilan 0% (12 bulan) minimum transaksi Rp1.000.000,-\n\tBerlaku BNI Reward Points (Konversi 1 point = Rp. 5,-). Hemat 50% atau maksimum Rp1.000.000,-. Hanya berlaku di Ticketing Office.\n\n",
+      promo_image: "http://m.bnizona.com//files/f2eec26293949c83779d761210cd6338.jpg"
     }
   ],
   Hotel: [
+    {
+      title: "Diskon 40% menginap di Hotel Tentrem Yogyakarta dengan Kartu Kredit BNI",
+      merchant: "Hotel Tentrem Yogyakarta",
+      merchant_logo: "http://m.bnizona.com/files/2ea58f6999e463cc3ecc646be20b5e2c.jpg",
+      valid_until: "valid until 15 March 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/1205",
+      promo_details_title: "Diskon 40% menginap di Hotel Tentrem Yogyakarta dengan Kartu Kredit BNI",
+      promo_details_description: "Liburan atau business trip di Yogyakarta menginap di Hotel Tentrem. Dapatkan Diskon 40% berlaku untuk room dengan Kartu Kredit dan Debit BNI.\nKetentuan:\n- Tidak termasuk atau tidak bisa digunakan untuk harga promosi, holiday season, long weekend, Lebaran, Natal dan tahun baru 2017\n- Berlaku bagi pengguna Kartu Kredit dan Debit BNI kecuali iB Hasanah, Corporate Card dan Debit BNI Syariah",
+      promo_image: "http://m.bnizona.com//files/4a6ab678a516fcd7e7eedff675563960.jpeg"
+    },
     {
       title: "Khusus Selasa Diskon Rp 100 ribu untuk order Hotel di Ezytravel.co.id",
       merchant: "EzyTravel",
       merchant_logo: "http://m.bnizona.com/files/99cdd850ef0e96a3c0ffc435ca216075.jpg",
       valid_until: "valid until 31 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/1117"
-    },
-    {
-      title: "Diskon 10% untuk Kamar + 15% Resto & Spa di Solo Paragon Hotel",
-      merchant: "Solo Paragon Hotel",
-      merchant_logo: "http://m.bnizona.com/files/bca091de48a6d799695f19022136e783.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/881"
-    },
-    {
-      title: "Diskon 10% untuk Kamar + 15% Resto & Spa di Eden Hotel Bali",
-      merchant: "Eden Hotel Bali",
-      merchant_logo: "http://m.bnizona.com/files/02d04f4ffd13ba2d560df33ad3af8db0.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/879"
-    },
-    {
-      title: "Diskon 30% di Sagan Hotel - Yogyakarta",
-      merchant: "Sagan Hotel",
-      merchant_logo: "http://m.bnizona.com/files/f70599d2c5d5308f755945be06c60643.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/831"
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/1117",
+      promo_details_title: "Khusus Selasa Diskon Rp 100 ribu untuk order Hotel di Ezytravel.co.id",
+      promo_details_description: "\n\tDiskon Rp 100.000 untuk pemesanan hotel domestik dan internasional\n\tPeriode pemesanan Hotel : 1 Desember 2015 - 31 Mei 2016\n\tPemesanan dilakukan hanya setiap hari Selasa\n\tDiskon berlaku untuk pemesanan hotel domestik dan internasional untuk minimum transaksi Rp.1.000.000,-.\n\tPemesanan dilakukan melalui www.ezytravel.co.id/hotel\n\tTidak dapat digabungkan dengan promo lain\n\tPromo berlaku untuk setiap transaksi\n\tBerlaku untuk semua jenis Kartu Kredit  BNI tidak termasuk Corporate Card kecuali iB Hasanah Card\n\t\n\t \n\n",
+      promo_image: "http://m.bnizona.com//files/88c69e10afa62c4a041b4c68b3617a77.jpg"
     },
     {
       title: "Diskon 45% di Indoluxe Hotel - Yogyakarta",
       merchant: "Indoluxe Hotel",
       merchant_logo: "http://m.bnizona.com/files/586337d50217b9e0518471b7a821604c.jpg",
       valid_until: "valid until 15 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/811"
-    },
-    {
-      title: "Diskon up to 55% di Crystal Lotus Hotel - Yogyakarta",
-      merchant: "Crystal Lotus Hotel",
-      merchant_logo: "http://m.bnizona.com/files/e936da0b749b2623720325d9aeb101f3.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/810"
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/811",
+      promo_details_title: "Diskon 45% di Indoluxe Hotel - Yogyakarta",
+      promo_details_description: "- Diskon 45% untuk Superior & Deluxe Room Type\n- Diskon 10% untuk Food and Beverage",
+      promo_image: "http://m.bnizona.com//files/587d58a2c0096e88e792f0f647295dbd.jpg"
     },
     {
       title: "Diskon hingga 35% di Nagoya Plasa Hotel",
       merchant: "Nagoya Plasa Hotel",
       merchant_logo: "http://m.bnizona.com/files/adf0f6bbece9982977e8a4466678398a.jpg",
       valid_until: "valid until 16 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/24/787"
+      details_link: "http://m.bnizona.com/index.php/promo/view/24/787",
+      promo_details_title: "Diskon hingga 35% di Nagoya Plasa Hotel",
+      promo_details_description: "\n\tDiskon 35% all room dari harga publish\n\tDiskon 10% all F&B\n\tBerlaku semua jenis Kartu Kredit dan Debit BNI ( kecuali Hasanah Card, Corporate Card dan Debit BNI Syariah )\n\tTidak berlaku untuk harga promo lain\n\tBerlaku setiap hari selama periode program\n\n",
+      promo_image: "http://m.bnizona.com//files/56b5f338c31539b830a997f65a6ac9f8.jpg"
     }
   ],
   Health Service: [
@@ -350,86 +411,102 @@
       merchant: "watsons",
       merchant_logo: "http://m.bnizona.com/files/f3f2997fcd10c7361723aa1adc310e7c.jpg",
       valid_until: "valid until 08 July 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/25/1005"
-    },
-    {
-      title: "RS Surya Husadha Badung & Denpasar Diskon 20% Room dan Diskon 10% Medical Check-up",
-      merchant: "RS Surya Husadha Denpasar ",
-      merchant_logo: "http://m.bnizona.com/files/354fcd3ef843122e928734a44f5095d5.jpg",
-      valid_until: "valid until 01 April 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/25/941"
+      details_link: "http://m.bnizona.com/index.php/promo/view/25/1005",
+      promo_details_title: "Gratis Voucher at Watsons Indonesia",
+      promo_details_description: "a. Gratis voucher Watsons Rp10.000, untuk transaksi minimal Rp100.000,- untuk pembelanjaan seluruh produk\nb. Berlaku di seluruh outlet Watsons Indonesia\nc. Berlaku kelipatan\nd. Voucher hanya dapat digunakan untuk pembayaran produk on Brand Watsons\ne. Berlaku untuk semua Kartu Debit BNI, kecuali Kartu Debit BNI Syariah\nf. Berlaku hingga 8 Juli 2016",
+      promo_image: "http://m.bnizona.com//files/4341d5b4aa691ce94b5f39bf521e69e5.jpg"
     }
   ],
   Miscellaneous: [
+    {
+      title: "Diskon Rebutan Hingga 88% dengan BNI Debit Online di Lakupon.com",
+      merchant: "lakupon.com",
+      merchant_logo: "http://m.bnizona.com/files/044ba77040d43a448f50a12036c101f7.jpg",
+      valid_until: "valid until 31 December 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1210",
+      promo_details_title: "Diskon Rebutan Hingga 88% dengan BNI Debit Online di Lakupon.com",
+      promo_details_description: "- Diskon Rebutan Hingga 88%, khusus setiap hari Rabu-Kamis-Jumat.\n- Diskon langsung diberikan apabila pembayaran untuk transaksi menggunakan BNI Debit Online.\n- Promo ini hanya berlaku untuk produk-produk pilihan di https://lakupon.com/promo/26-pesta-diskon-bni-debit-online\n- Periode Promo berlaku hingga 31 Desember 2016.\n- Minimum nominal transaksi pembelian Rp 100.000,-\n- Jenis dan jumlah produk promo telah ditentukan & dapat berubah sewaktu-waktu oleh penyelenggara program.\nInformasi lebih lengkap hubungi BNI Call 1500046",
+      promo_image: "http://m.bnizona.com//files/bd690a7ee1b420ca403ebc8b71ae3679.jpg"
+    },
+    {
+      title: "Nikmati Kemudahan dan Kenyamanan Transaksi Belanja Online dengan Kartu Kredit BNI",
+      merchant: "BNI Experience",
+      merchant_logo: "http://m.bnizona.com/files/cfabf057560e5cbfd6fc62e988864c55.jpg",
+      valid_until: "valid until 31 December 2016",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1208",
+      promo_details_title: "Nikmati Kemudahan dan Kenyamanan Transaksi Belanja Online dengan Kartu Kredit BNI",
+      promo_details_description: "AKSENBELANJA.COM\nCashback Rp 70.000 + Free Voucher Rp 70.000 + Free Delivery\n- Cashback Rp 70.000,- + Free voucher Rp 70.000,- + Free Delivery berlaku untuk minimum transaksi Rp 350.000,-/basket size(dalam 1x checkout).\n- Setiap card name hanya berhak mendapat 1 kali cashback Rp 70.000,- / hari\n- Cashback akan dikreditkan  minimum 1 (satu) bulan setelah periode berakhir\n- Tidak berlaku untuk penggabungan struk dan kelipatan transaksi.\n- Free Voucher aksenbelanja.com Rp 70.000,-, berlaku 1x penggunaan (expired dalam 1 minggu)\n- Voucher dapat digunakan untuk transaksi selanjutnya minimum transaksi Rp 100.000,- di aksenbelanja.com\n- Periode : hingga 15 Juli 2016\n \nZALORA.CO.ID\nDiskon 15%\n- Diskon 15% minimum transaksi Rp 300.000,- untuk produk\n- Fashion (kecuali produk kecantikan dan e-gift)\n- Kode Voucher BNICC15\n- Periode : hingga 31 Desember 2016\nZalora Fashionable Thursday\n- Diskon 30% minimum transaksi Rp 350.000,- untuk produk\n- Fashion (kecuali produk kecantikan dan e-gift)\n- Kode Voucher BNIKAMIS\n- Periode : hingga 31 Maret 2016\n \nBILNA\n- Diskon 30% selected item khusus di hari Senin & Selasa\n- Periode : hingga 30 April 2016\n \nMATAHARIMALL.COM\n- Cicilan 0%  3, 6 dan 12 bulan, Minimum transkasi Rp 990.000,-\n- Periode : hingga 21 Januari 2017\n \nPANORAMA TOURS\n- Cicilan 0%  3, 6 dan 12 bulan,  Minimum transaksi Rp 500.000,-\n- Periode : hingga 10 Juli 2016\n \nBHINNEKA.COM\n- Cicilan 0%  3, 6 dan 12 bulan, Minimum transaksi Rp 500.000,-\n- Periode : hingga 07 September 2016\n \nERAFONE.COM\n- Cicilan 0%  3, 6 dan 12 bulan, Minimum transaksi Rp 500.000,-\n- Periode : hingga 13 Januari 2017\n \nALATSELAM.COM\n- Cicilan 0%  3, 6 dan 12 bulan, Minimum transaksi Rp 500.000,-\n- Periode : hingga 30 Oktober 2016\n \nBIMBI.COM\n- Cicilan 0% 3 dan 6 bulan, Minimum transaksi Rp 2.000.000,-\n- Periode : hingga 30 Juni 2016\n \nLAZADA.CO.ID\nPromo Cicilan 0%\n- Cicilan 0% 3, 6 dan 12 bulan, Minimum transaksi Rp 500.000,-\n- Periode : hingga 11 Juni 2016\nPromo BNI Thursday\n- Promo BNI Thursday berupa tambahan diskon Rp. 70.000,-/kartu/hari yang berlaku setiap hari KAMIS di minggu terakhir setiap bulan selama periode promo untuk pembelanjaan dengan menggunakan Kartu Kredit dan BNI Debit Online.\n- Minimal akumulasi pembelanjaan sebesar Rp 700.000,- (tujuh ratus ribu)/basketsize.\n- Maksimum diskon yang diberikan kepada masing-masing customer adalah 1 kali / customer id / hari akumulasi belanja sebesar minimum Rp 1.000.000,- (satu juta rupiah).\n- Periode : 28 April 2016, 26 Mei 2016, 30 Juni 2016, 28 Juli 2016, 25 Agustus 2016, 29 September 2016, 27 Oktober 2016, 24 November 2016 & 29 Desember 2016\n \nBLIBLI.COM\nPromo Cicilan 0%\n- Cicilan 0% 3, 6, 12 dan 24 bulan, Minimum transaksi Rp 500.000,-\n- Periode : hingga 14 Desember 2016\nMidnight Sale di blibli.com\n- Diskon Rp 70.000,- untuk kategori Fashion and Health-Beauty Products.                                                        \n- Tambahan diskon Rp 70.000,- berlaku untuk transaksi menggunakan Kartu Kredit BNI yang bertransaksi minimal Rp 350.000,- / customer id / hari.\n- Periode : 28-29 April 2016, 30-31 Mei 2016, 29-30 Juni 2016, 28-29 Juli 2016, 30-31 Agustus 2016, 29-30 September 2016, 27-28 Oktober 2016, 29-30 November 2016 & 21-22 Desember 2016\n \nAGODA.COM\n- Diskon 5% untuk pemegang kartu kredit BNI Silver.\n- Diskon 7% untuk pemegang Kartu Kredit BNI Gold Titanium Platinum dan Infinite\n- Diskon berlaku untuk semua hotel diseluruh dunia yang berpartisipasi dengan www.agoda.com\n- Diskon berlaku untuk periode booking\n- Pemesanan melalui dedicated website khusus untuk promo BNI www.agoda.com/bni\n- Diskon tidak termasuk pajak dan biaya tambahan lainnya.\n- Periode : hingga 30 Juni 2016\n \nNUSATRIP.COM\n- Cashback 10% untuk setiap pemesanan Hotel Internasional melalui nusatrip.com\n- Berlaku untuk pembelian hotel dan tiket pesawat domestik dan internasional dalam destinasi yang sama dengan minimum transaksi Rp 1.000.000,-\n- Cashback 5% untuk hotel domestik melalui www.nusatrip.com\n- Diskon hanya berlaku untuk pemesanan melalui landing page BNI\n- Pemegang Kartu Kredit BNI harus mengirimkan kode pemesanan (booking code) ke promo.bni@nusatrip.com\n- Permintaan cashback paling lambat 1 minggu setelah program selesai, cashback akan dilakukan per bulan di minggu pertama di bulan berikutnya.\n- Periode : hingga 30 Juni 2016\n \nRAJAKAMAR.COM\n- Program Diskon 10% + Installment 0% 3 bulan untuk pemesanan Hotel. Diskon 10% untuk setiap pemesanan Hotel melalui www.rajakamar.com/BNI\n- Tidak ada minimum transaksi dan minimum menginap untuk mendapatkan diskon\n- Promo installment 0% 3 bulan dengan minimum transaksi Rp 500.000,-\n- Periode : hingga 18 April 2016\n \nCITILINK\n- Minimum transaksi Rp 1.000.000,- bisa mendapatkan fasilitas cicilan 0% 3 bulan\n- Minimum transaksi Rp 1.000.000,- bisa mendapatkan fasilitas cicilan bunga ringan 0.8% untuk tenor 6, 9 dan 12 bulan\n- Promo berlaku untuk semua Kartu Kredit BNI kecuali Corporate Card dan iB Hasanah Card\n- Periode : hingga 31 Desember 2016\n \nACCOR\nPromo ACCOR Regular Discount 10% Malaysia-Indonesia-Singapura + Feel Welcome Accor\n- Reg Discount 10% ACCOR Hotel Malaysia, Indonesia & Singapore\n- Tambahan diskon 10% untuk pemegang advantage plus member & Le Club Accor member.\n- Periode : hingga 31 Desember 2016\nFeel welcome ACCOR hotels.com Bali+Lombok & Jakarta+Java\n- Additional diskon 10% untuk pemesanan kamar di Accor Hotels Bali - Lombok dan Jakarta - Jawa, minimum menginap 2 malam\n- Hotel-hotel yang berpartisipasi untuk Bali-Lombok : Mercure Novotel M Galerry Pullman Sofitel\n- Extra benefit untuk Feel Welcome Bali – Lombok\n- Hotel-hotel yang berpartisipasi untuk Jakarta – Java\n- Extra benefit untuk Feel Welcome Jakarta – Java\n- Periode : hingga 30 Apr 2016\n \nOPTIK SEIS\n- Cicilan 0% untuk tenor 6 bulan dengan minimum transaksi Rp.1.000.000,-\n- Diskon hingga 60% untuk pembelian frame & Sunglasses di website www.optikseis.com\n- Cicilan 0% 6 bulan berlaku untuk semua produk di www.optikseis.com\n- Promo diskon dapat digabungkan dengan promo cicilan 0% tenor 6 bulan\n- Periode : hingga Januari 2017\n \nPEGIPEGI.COM\n- Diskon langsung 12% untuk pemesanan hotel dengan maksimum diskon Rp.250.000,-\n- Diskon Langsung 3% untuk tiket pesawat dengan maksimum diskon Rp.100.000,-\n- Berlaku untuk semua hotel dan airlines yg bekerjasama dgn www.pegipegi.com\n- Diskon hanya berlaku untuk pemesanan melalui landing page BNI www.pegipegi.com/bni\n- Periode : hingga 31 Mei 2016\n \nACCOR WEEKEND RUSH 2016\n- Diskon hingga 35% untuk pemegang Kartu Kredit BNI yang merupakan anggota Le Club Accorhotels (include breakfast)\n- Additional diskon 10% bagi pemegang Kartu Kredit BNI yang memiliki kenggotaan Acoor Plus\n- Berlaku untuk semua Kartu Kredit BNI kecuali Hasanah Card\n- Berlaku untuk periode menginap yang sama dengan periode pemesanan\n- Berlaku untuk hotel yang berpartisipasi di Jakarta, Tangerang Bandung dan Singapura\n- Setiap minggunya hotel yang berpartisipasi akan berubah dan diupdate di Website.\n- Pemesanan hanya dapat dilakukan melalui www.accorhotels.com/bni\n- Nama di profil reservasi harus sesuai dengan nama di Kartu Kredit BNI dan identitas\n- Reservasi tidak dapat dibatalkan dan diubah\n- Periode : hingga 28 Desember 2016 (setiap Selasa - Rabu)\n \nEZYTRAVEL.CO.ID\n- Diskon 10% untuk pembelian semua paket (domestik dan international)\n- Periode pemesanan Tour : 15 Maret - 31 Mei 2016\n- Diskon untuk untuk paket ini tanpa minimum transaksi\n- Diskon untuk paket ini untuk minimum keberangkatan  2 orang.\n- Pemesanan dilakukan melalui www.ezytravel.co.id/paket\n- Paket ini untuk keberangkatan dari Indonesia. Tidak dapat digabungkan dengan promo lain\n- Periode : hingga 31 Mei 2016\n \nSHOPBACK.CO.ID\n- Bonus cashback sebesar Rp 50.000,- untuk new customer khusus dengan Kartu Kredit BNI yang membuat akun melalui www.shopback.co.id/BNI-signup.\n- Tambahan bonus cashback sebesar Rp 20.000,- setelah melakukan pembelian pertama & melengkapi profil diri melalui www.shopback.co.id/shopperks.\n- Tidak ada pembatasan kuota cashback untuk sign up dengan Kartu Kredit BNI selama periode program.\n- Periode : hingga 31 Juli 2016\n \nCANTIK.COM\n- Diskon 10% berlaku semua produk kecuali produk kecantikan.\n- Periode : hingga 30 Mei 2016\n \nELEVENIA\n- Bonus 7x BNI Reward Point (BRP) untuk akumulasi transaksi per bulan Rp 7.000.000,- dengan Kartu Kredit BNI.\n- BRP akan diberikan ke customer maksimum 1.5 bulan setiap akhir bulan.\n- Promo berlaku untuk semua jenis Kartu Kredit BNI (kecuali Hasanah dan Corporate Card)\n- Periode : hingga 30 Juni 2016\n \nTRAVELOKA\n- Cicilan 0% 3 bulan dengan minimum transaksi Rp. 2.000.000,-\n- Cicilan 0% 6 bulan dengan minimum transaksi Rp. 2.500.000,-\n- Berlaku untuk tiket pesawat maupun pemesanan hotel\n- Berlaku untuk semua rute dan periode terbang\n- Berlaku untuk semua Kartu Kredit BNI (Visa, Mastercard dan JCB) termasuk Co-Brand & Affinity, kecuali IB Hasanah Card dan Corporate Cardo\n- Tidak dikenakan surcharge kepada cardholders\n- Pemesanan dilakukan melalui semua channel pemesanan Traveloka (apps, mobile dan desktop)\n- Periode : hingga 31 Mei 2016\n \nGARUDA INDONESIA\n- Date of Issue  : s.d 30 Juni 2016\n- Date of Travel  : s.d 30 Juni 2016\n- Program Cashback : s.d 30 Juni 2016 untuk 140 orang pertama\nFly to London Heathrow with Garuda Indonesia - BNI Kartu Kredit \n- Special price untuk penerbangan Jakarta – London (Heathrow) – Jakarta,transit via Singapore dengan harga Rp 9.900.000,-\n- Pemesanan dapat dilakukan melalui Sales Office Garuda Indonesia dan www.garuda-indonesia.com \n- Tambahan cashback Rp 300.000,- dengan Kartu Kredit BNI untuk 140 orang pertama selama program cashback (s.d 30 Juni 2016) khusus via website www.garuda-indonesia.com\n- Promo cashback akan dilakukan manual oleh BNI, maksimal 1,5 bulan setelah program selesai\n- Promo dapat digabungkan dengan program cicilan (0% 3 bulan + bunga ringan 0.6% 6-12 bulan) yang sedang berjalan khusus website\n- Khusus untuk pembelian melalui sales office proses cicilan hanya berlaku 0% 3 bulan dengan menghubungi BNI Call 1500046\n ",
+      promo_image: "http://m.bnizona.com//files/0f3ee3c4a16828af34681a29799394cf.jpg"
+    },
     {
       title: "Nikmati Belanja Seru dan Hadiah Lebih Banyak",
       merchant: "BNI ",
       merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
       valid_until: "valid until 05 August 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1199"
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1199",
+      promo_details_title: "Nikmati Belanja Seru dan Hadiah Lebih Banyak",
+      promo_details_description: "Periode program : hingga 5 Agustus 2016                                                                          \nSyarat & Ketentuan :\n1. Dapatkan hadiah untuk top spender pemegang Kartu Kredit BNI-bank BJB baru yang telah disetujui selama periode program.\n- 1 (Satu) Unit Motor Honda All New Vario 125 eSP CBS ISS (Off the road & availability colour).\n- 1 (Satu) Unit Smart Phone Samsung Galaxy Note 5 Gold.\n- Voucher Map Total Rp 3.000.000 - untuk 3 (tiga) orang pemenang.\nPromo berlaku untuk minimum transaksi Rp 15.000.000,-/ bulan selama periode program.\n2. Pajak hadia dan biaya delivery ditanggung oleh BNI.\n3. Free Annual Fee selama 2 (dua) tahun, iuran tahun pertama free tanpa syarat dan iuran tahun kedua free dengan syarat melakukan transaksi.\nInformasi lebih lengkap hubungi BNI Call 1500046",
+      promo_image: "http://m.bnizona.com//files/9a14e485ad92144b525068fc2b04091e.jpg"
     },
     {
-      title: "Penawaran Spesial dengan Kartu Debit BNI",
+      title: "Penawaran Spesial dengan Kartu Kredit BNI",
       merchant: "BNI ",
       merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
       valid_until: "valid until 18 January 2017",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1195"
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1195",
+      promo_details_title: "Penawaran Spesial dengan Kartu Kredit BNI",
+      promo_details_description: "LOTTEMART\nDiskon 10% semua produk\nBerlaku setiap hari Sabtu di minggu pertama untuk Kartu Kredit BNI-LOTTE Mart dan Sabtu di minggu terakhir untuk Kartu Kredit BNI hingga 25 Juni 2016\nDiskon 20% untuk produk segar tertentu setiap hari Senin s.d. Kamis\nBerlaku hingga 30 Juni 2016\nGratis 7 produk setiap tanggal 7 di setiap bulannya dengan Kartu Kredit BNI di LOTTE Mart. Berlaku untuk 70 customer/outlet/hari \nBerlaku hingga 7 Desember 2016\n \nMATAHARI DEPARTMENT STORE\nCashback Rp 70.000,- dengan Kartu Kredit dan Kartu Debit BNI di Matahari Departement Store\nBerlaku setiap Sabtu & Minggu di minggu terakhir setiap bulannya hingga 28 Agustus 2016\n \nCGV BLITZ\nFREE Popcorn untuk pembelian 2 (dua) tiket CGV Blitz dengan Kartu Kredit BNI \nBerlaku tiap Sabtu hingga 28 Februari 2017\n \nTHE DUCK KING\nDiskon 20% F&B di The Duck King Group (dine in) dengan Kartu Kredit BNI Titanium, Platinum dan Infinite\nBerlaku  hingga 30 April 2016\n \nCOLD STONE\nDiskon 30% di hari Senin dan diskon 25% hari Selasa s.d. Minggu dengan Kartu Kredit BNI di Coldstone\nBerlaku hingga 31 Januari 2017\n \nLAZADA\nTambahan diskon Rp 70.000,- dengan Kartu Kredit BNI dan BNI Debit Online di Lazada.co.id\nBerlaku setiap KAMIS di minggu terakhir di setiap bulannya hingga 29 Desember 2016\n \nGARUDA INDONESIA\nInstallment 0% 3 bulan & 0.6% 6 dan 12 bulan untuk pembelian tiket di www.garuda-indonesia.com dan Garuda Indonesia ticketing office\nBerlaku hingga 30 Juni 2016\n \nACCOR HOTEL\nDiskon hingga 35% hotel (Jakarta, Tangerang, Bandung & Singapura) di www.accorhotels.com/bni\nBerlaku setiap Selasa - Rabu hingga 28 Desember 2016\n \nCITILINK\nCashback Rp 70.000,- untuk pemesanan tiket di www.citilink.co.id dan Citilink mobile apps\nKhusus di hari Senin & Kamis hingga 31 Maret 2016\n \nTRAVELOKA\nCicilan 0% tenor 3 & 6 bulan dengan Kartu Kredit BNI untuk pemesanan tiket pesawat & hotel di Traveloka (apps, mobile dan desktop) \nBerlaku hingga 31 Mei 2016\n \nZALORA\nDiskon 15% + tambahan Cashback Rp 70.000,- dengan Kartu Kredit BNI di zalora.co.id\nBerlaku pada tanggal 7 dan 27 di setiap bulannya hingga 27 Desember 2016\n \nELEVANIA\n7X BNI Reward Point di Elevania.co.id\nBerlaku hingga 30 Juni 2016\n \nBLIBLI\nTambahan diskon 20% dengan Kartu Kredit BNI Visa di Blibli.com\nBerlaku hingga 31 Mei 2016\n\nDiskon 80% fashion & health-beauty products di Blibli.com Midnight Sale\n29-30 Maret, 28-29 April, 30-31 Mei, 29-30 Juni, 28-29 Juli, 30-31 Agustus, 29-30 September, 27-28 Oktober, 29-30 November, 21- 22 Desember 2016\n \nDINOMARKET\nInstallment 0% tenor 3, 6 atau 12 bulan dengan Kartu Kredit BNI di www.dinomarket.com\nBerlaku hingga 18 Januari 2017\n \nAKSEN BELANJA\nCashback Rp 70.000,- dengan Kartu Kredit BNI di aksenbelanja.com\nBerlaku hingga 15 Juli 2016\n ",
+      promo_image: "http://m.bnizona.com//files/420739cbb42c993e18b225fd1cc8cfb3.jpg"
     },
     {
       title: "Menangkan Honda BR-V & hadiah menarik lainnya di Rejeki Listrik BNI e-Banking",
       merchant: "BNI ",
       merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
       valid_until: "valid until 31 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1182"
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1182",
+      promo_details_title: "Menangkan Honda BR-V & hadiah menarik lainnya di Rejeki Listrik BNI e-Banking",
+      promo_details_description: "Gunakan BNI ATM atau BNI SMS Banking untuk pembelian token listrik (listrik prabayar), kumpulkan poinnya dan menangkan berbagai hadiah menarik sebagai berikut :\nHADIAH BULANAN\n- 1 (satu) unit Honda Beat Sporty\n- 1 (satu) unit LG LED TV 43''\n- 5 Tabungan BNI @Rp 500.000,-\nGRAND PRIZE\n- 1 (satu) unit Honda BR-V E CTV\n- 3 (tiga) unit Vespa S\n- 10 (sepuluh) tabungan BNI @Rp 1.000.000,-\nMEKANISME\na. Berlaku untuk nasabah yang memiliki rekening BNI Taplus atau BNI Giro Perorangan.\nb. Berlaku untuk transaksi pembelian token listrik (listrik prabayar) melalui BNI ATM dan BNI SMS Banking.\nc. Perhitungan poin berdasarkan rekening yang melakukan transaksi pembelian token listrik.\n- Transaksi melalui ATM BNI : 1 Poin\n- Transaksi melalui SMS Banking : 2 Poin\nd. Poin tiap bulan tidak dihitung kumulatif (kecuali untuk perhitungan Hadiah Grand Prize).\ne. Pemenang hadiah bulanan ditentukan berdasarkan poin terbanyak dengan minimum 4 poin tiap bulannya.\nf. 1 Peserta hanya dapat memenangkan 1 Hadiah Bulanan. Peserta yang telah memenangkan Hadiah Bulan I tidak diikutkan dalam periode bulan berikutnya, namun tetap berhak memenangkan Hadiah Grand Prize.\ng. Pemenang untuk Kategori Hadiah Grand Prize ditentukan berdasarkan undian dengan minimal mengumpulkan 12 poin selama masa periode program.\nh. 1 Peserta hanya dapat memenangkan 1 jenis Hadiah Grand Prize.\nCARA CEK POIN\nLangkah-langkah nasabah dalam melakukan cek poin transaksi adalah sebagai berikut :\n1. Registrasi. Lakukan Registrasi dengan ketik syntax : REG<>BNI<>LISTRIK<>No Rekening#Email  dan kirim SMS ke 3346\n2. Cek Poin. Untuk cek poin ketik syntax : POIN<>BNI<>LISTRIK  dan kirim SMS ke 3346",
+      promo_image: "http://m.bnizona.com//files/f395e8e778a88b77701c875692d292f0.jpg"
     },
     {
       title: "Mudah apply Kartu Kredit BNI",
       merchant: "BNI ",
       merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
       valid_until: "valid until 31 December 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1181"
-    },
-    {
-      title: "Cashback Rp 70.000,- di aksenbelanja.com",
-      merchant: "aksenbelanja.com",
-      merchant_logo: "http://m.bnizona.com/files/148e52159e6b42ed406ab9fd7dc0706c.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1179"
-    },
-    {
-      title: "Cashback hingga Rp 200 ribu di BLANJA.com dengan Kartu Kredit BNI",
-      merchant: "blanja.com",
-      merchant_logo: "http://m.bnizona.com/files/a9dbee45bb9f1319e6bd6ff552fff0c2.jpg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1161"
-    },
-    {
-      title: "Ekstra diskon 15% + Gratis CD Deluxe Maliq & Dessential di Blibli.com",
-      merchant: "blibli.com ",
-      merchant_logo: "http://m.bnizona.com/files/e5037e24126064d09e70b9b6d3673e04.png",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1160"
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1181",
+      promo_details_title: "Mudah apply Kartu Kredit BNI",
+      promo_details_description: "Semakin mudah Apply Kartu Kredit BNI\nCaranya kirim permintaan aplikasi Kartu Kredit BNI ke 3346 dengan format:\nApplyKK#Nama#Email#Kota\nKemudian dalam 3 hari petugas kami akan menghubungi Anda. Apabila dalam waktu 3 hari Anda tidak dapat kami hubungi, maka kami akan mengirimkan pemberitahuan melalui email. Jika dalam waktu 3 hari Anda belum dihubungi petugas kami, silakan hubungi BNI Call 1500046",
+      promo_image: "http://m.bnizona.com//files/f588858860cdb6a362bb25a0caa7b3b8.jpg"
     },
     {
       title: "Nikmati kenyamanan layanan perbankan digital di BNI e-Branch",
       merchant: "BNI ",
       merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
       valid_until: "valid until 31 December 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1094"
-    },
-    {
-      title: "Transaksi dengan PIN Kartu Kredit BNI",
-      merchant: "BNI ",
-      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1084"
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1094",
+      promo_details_title: "Nikmati kenyamanan layanan perbankan digital di BNI e-Branch",
+      promo_details_description: "BNI e-Branch | Pondok Indah Mall 2 Lantai Dasar\nTelah dibuka BNI e-Branch, outlet BNI dengan konsep digital dimana Anda dapat membuka rekening sekaligus mendapatkan info terkait produk dan promo secara digital serta berinteraksi langsung dengan petugas BNI Call melalui Video Contact Center.\nLayanan yang ada di BNI e Branch:\ne-Brochure\nPerangkat gadget/tablet yang disediakan oleh BNI dan dapat digunakan nasabahuntuk mengetahui informasi seputar produk dan promo BNI maupun Perusahaan Anak BNI. Nasabah juga dapat menggunakan e-Brochure  untuk mengisi e-form pembukaan rekening dan setorantunai.\nSmart Queuing System (SQS)\nPerangkat yang digunakan untuk mengisi e-form dan memperoleh nomor antrian pembukaan rekening atau setoran perusahaan.\nSelf Service Terminal (SST)\nDapat digunakan nasabah untuk melakukan top up (pengisian) saldo Kartu Tap Cash BNI.\nBanknote Deposit Machine (BDM)\nSarana/perangkat untuk melakukan setoran multi denominasi.\nInteractive Wall\nMedia informasi berupa layar interaktif yang menampilkan informasi produk dan promo BNI serta perusahaan anak BNI.\nVideo Contact Center (VCC)\nSarana yang dapat digunakan nasabah untuk memperoleh informasi produk, menyampaikan complain/keluhan dan transaksi perbankan dengan dipandu oleh petugas BNI Call secara virtual.\nInformasi lebih lanjut kunjungi BNI e-Branch di Pondok Indah Mall 2 lantai dasar atau hubungi BNI Call 1500046  atau 68888 melalui ponsel atau kunjungi www.bni.co.id",
+      promo_image: "http://m.bnizona.com//files/09fb13e30d7e4df8b519cb82b4fd2d1a.jpg"
     },
     {
       title: "BNI Twitter #Hashtag",
       merchant: "BNI Experience",
       merchant_logo: "http://m.bnizona.com/files/cfabf057560e5cbfd6fc62e988864c55.jpg",
       valid_until: "valid until 31 December 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/26/1077"
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/1077",
+      promo_details_title: "BNI Twitter #Hashtag",
+      promo_details_description: "Cara menggunakan BNI Twitter #Hashtag : #AskBNI \n1. Follow Twitter @BNI46\n2. Untuk info penggunaan, kirim Direct Message ke Twitter @BNI46 ketik #AskBNI. Akan ada reply via DM informasi cara penggunaannya.\n3. Cara Penggunaan : (Kirim Direct Message) #Promo (spasi) #[Keyword] coontoh:\na. #Promo #Hotel\nb. #Promo #Travel\nc. #Promo #eCommerce\nUntuk mengetahui semua Keyword Promo kirim DM, ketik: #HelpPromo \n#AskBNI (spasi) #[Keyword] contoh:\na. #AskBNI #Taplus\nb. #AskBNI #TaplusBisnis\nc. #AskBNI #DebitCard\nUntuk mengetahui semua Keyword #AskBNI kirim DM, ketik: #HelpBNI",
+      promo_image: "http://m.bnizona.com//files/f19beb57a297008b6fca69464b4cd4d9.jpg"
+    },
+    {
+      title: "BNI EXPERIENCE",
+      merchant: "BNI Experience",
+      merchant_logo: "http://m.bnizona.com/files/cfabf057560e5cbfd6fc62e988864c55.jpg",
+      valid_until: "valid until 31 December 2020",
+      details_link: "http://m.bnizona.com/index.php/promo/view/26/983",
+      promo_details_title: "BNI EXPERIENCE",
+      promo_details_description: "BNI Experience adalah teman hidup anda yang membuat hidup anda lebih mudah! Melalui app ini, anda dapat menemukan ATM dan cabang BNI terdekat untuk memenuhi kebutuhan finansial layanan anda. Anda tidak akan lagi ketinggalan berbagai keuntungan sebagai nasabah BNI karena app ini selalu memberi tahu setiap promosi dan diskon dari merchant-merchant BNI. Bukan itu saja, BNI akan memberikan berbagai hadiah kejutan dari fitur \"Coupon\" yang dapat anda gunakan untuk mengakses banyak manfaat dari berbagai merchant. Nikmati pengalaman hidupmu dengan BNI Experience!\n\n\natau klik disini\n\natau klik disini\n\natau klik disini\n ",
+      promo_image: "http://m.bnizona.com//files/8e20428cf6e48e2024b6674ea375ce56.jpg"
     }
   ],
   Entertainment: [
@@ -438,7 +515,10 @@
       merchant: "MNC Play",
       merchant_logo: "http://m.bnizona.com/files/5e18ed1489139812180601e653ff3038.jpg",
       valid_until: "valid until 14 June 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/28/961"
+      details_link: "http://m.bnizona.com/index.php/promo/view/28/961",
+      promo_details_title: "Langganan MNC Play Pay 8 Get Free 4 months atau Pay 4 Get Free 2 months ",
+      promo_details_description: "\n\tPromo berlaku untuk pelanggan baru dan yang sudah berlangganan MNC Play serta memiliki Kartu Kredit BNI\n\tPenawaran istimewa Pay 8 Get Free 4 months atau Pay 4 Get Free 2 months dapat digabungkan dengan Cicilan 0% selama 6 dan 12 bulan dengan minimum transaksi Rp 500.000,-\n\tBerlaku untuk semua Kartu Kredit BNI kecuali Corporate Card dan iB Hasanah Card\n\tPromo berakhir pada 14 Juni 2016\n\n",
+      promo_image: "http://m.bnizona.com//files/6201845f15a09c086ea897f8b3383cc6.jpg"
     }
   ],
   Sports: [
@@ -447,23 +527,34 @@
       merchant: "Nike",
       merchant_logo: "http://m.bnizona.com/files/fa99c38a91b79717219061b5966a0b58.jpg",
       valid_until: "valid until 18 March 2017",
-      details_link: "http://m.bnizona.com/index.php/promo/view/34/1116"
+      details_link: "http://m.bnizona.com/index.php/promo/view/34/1116",
+      promo_details_title: "Diskon hingga 15% brand Nike dengan Kartu Kredit BNI",
+      promo_details_description: "- Diskon 10% untuk brand NIKE dengan Kartu Kredit BNI Silver & Gold (Regular, Affinity & Co-brand)\n- Diskon 15% untuk brand NIKE dengan Kartu Kredit BNI Titanium, Platinum, Signature & Infinite (Regular, Affinity & Co-brand)\n- Minimal transaksi Rp 2 juta/kartu\n- Promo berakhir pada 18 Maret 2017",
+      promo_image: "http://m.bnizona.com//files/54da17474bb62b4c5f25eb2e92f67fa6.jpg"
+    }
+  ],
+  Cicilan 0%: [
+    {
+      title: "Cicilan 0% untuk transaksi di Yamaha Mataram Sakti dengan Kartu Kredit BNI",
+      merchant: "Yamaha Mataram Sakti",
+      merchant_logo: "http://m.bnizona.com/files/668130193f3afb15dd61f16046fa6feb.jpg",
+      valid_until: "valid until 15 May 2017",
+      details_link: "http://m.bnizona.com/index.php/promo/view/35/1207",
+      promo_details_title: "Cicilan 0% untuk transaksi di Yamaha Mataram Sakti dengan Kartu Kredit BNI",
+      promo_details_description: "- Transaksi cicilan 0 % dilakukan pada EDC BNI dengan tenor 3, 6 & 12 bulan\n- Minimum Transaksi Kartu Kredit BNI Rp 500.000,-\n- Berlaku untuk Semua Kartu Kredit BNI kecuali iB Hasanah & Corporate Card",
+      promo_image: "http://m.bnizona.com//files/7ae6ef77430be48e33a3daed040ceab5.jpg"
     }
   ],
   Hobbies: [
-    {
-      title: "BNI JAVA JAZZ FESTIVAL 2016 - INSTAGRAM PHOTO CONTEST",
-      merchant: "BNI ",
-      merchant_logo: "http://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
-      valid_until: "valid until 31 March 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/39/1174"
-    },
     {
       title: "Mari Belajar di 88 ENGLISH Surabaya, Diskon 30%",
       merchant: "88 ENGLISH",
       merchant_logo: "http://m.bnizona.com/files/cc8b1130e7c88c6ef0466fe992c91945.jpg",
       valid_until: "valid until 08 May 2016",
-      details_link: "http://m.bnizona.com/index.php/promo/view/39/846"
+      details_link: "http://m.bnizona.com/index.php/promo/view/39/846",
+      promo_details_title: "Mari Belajar di 88 ENGLISH Surabaya, Diskon 30%",
+      promo_details_description: "\n\tDiskon 30% untuk program General English dengan semua Kartu Kredit BNI di 88 English Surabaya.\n\tBerlaku cicilan 0% (6 dan 12 bulan) minimal transaksi Rp. 500.000,- selama periode program.\n\tPromo tidak dapat digabungkan dengan promo lainnya yang sedang berlangsung.\n\tBerlaku untuk semua jenis Kartu Kredit BNI tidak termasuk Corporate Card & Hasanah Card.\n\tBerlaku hingga 8 Mei 2016\n\n",
+      promo_image: "http://m.bnizona.com//files/38f9b32fe54d8d0a669bf1aadd633a8f.jpg"
     }
   ]
 }

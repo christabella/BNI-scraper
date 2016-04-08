@@ -21,14 +21,8 @@ var categoriesPromise = getCategories().then(function(catArr){
         merchant_logo: 'img@src',
         valid_until: 'span.valid-until',
         details_link: 'a@href',
-        // image: xray('a@href', [{title: 'title'}])
-        // image: function($, cb2) {
-        //   return x($(this), 'title', [{
-        //     name: ''
-        //   }])(cb2);
-        // }
     }]).stream()];
-})
+}) // returns stream of [{title: 'title'}, {...}]
 .each(function(catObjAndStream){
     return new Promise(function(resolve, reject){
         var data = '';
@@ -39,8 +33,43 @@ var categoriesPromise = getCategories().then(function(catArr){
         })
 
         stream.on('end', function() {
-            promoData[catObj.category] = JSON.parse(data); 
-            resolve(catObj);
+            // promoData[catObj.category] = JSON.parse(data); 
+            var promoPromise = Promise.resolve(JSON.parse(data))
+            .map(function(catObj) {
+                // scrape promotion details page
+                return [catObj, xray(catObj.details_link, {
+                    promo_details_title: '#merchant-detail h5',
+                    promo_details_description: '#merchant-detail p',
+                    promo_image: '#banner img@src'
+                }).stream()];
+            })
+            .map(function(promoObjAndStream){ // NOT .each, or resolved result would been that of the previous .map function, i.e. return [obj, stream]
+                return new Promise(function(resolve, reject){
+                    var promoDetailsData = '';
+                    var promoObj  = promoObjAndStream[0];
+                    var promoStream = promoObjAndStream[1];
+
+                    promoStream.on('data', function(chunk) {
+                        promoDetailsData += chunk;
+                    })
+
+                    promoStream.on('end', function() {
+                        promoDetailsObj = JSON.parse(promoDetailsData); // parse stream data
+                        // merge promo details object into main promo object
+                        for (var attrname in promoDetailsObj) { 
+                            promoObj[attrname] = promoDetailsObj[attrname]; 
+                        }                        
+                        resolve(promoObj);
+                    })
+                })
+            })
+
+            promoPromise.then(function(promo) {
+                // log to global promoData object
+                promoData[catObj.category] = promo
+                resolve(catObj);
+            });
+
         });
     });
 });
